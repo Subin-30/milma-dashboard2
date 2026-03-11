@@ -1,0 +1,1070 @@
+Category,Product,Year,Month,Month_Name,Quarter,Is_Festival,Is_Summer,Is_Peak_Q2,Is_Monsoon,Is_Winter,Quantity,Revenue,Avg_Rate,Days_Active,Rev_Per_Unit
+Cheese,Cheese Slice 100gm,2021,4,Apr,2,0,1,1,0,0,316.0,15808.56,50.18,13,50.03
+Cheese,Cheese Slice 100gm,2021,4,Apr,2,1,1,1,0,0,93.0,4653.64,50.48,8,50.04
+Cheese,Cheese Slice 100gm,2021,5,May,2,0,1,1,0,0,692.0,34863.11,50.69,27,50.38
+Cheese,Cheese Slice 100gm,2021,6,Jun,2,0,0,1,1,0,1134.0,56756.62,50.25,26,50.05
+Cheese,Cheese Slice 100gm,2021,7,Jul,3,0,0,0,1,0,892.0,44665.09,50.1,23,50.07
+Cheese,Cheese Slice 100gm,2021,8,Aug,3,0,0,0,1,0,1031.0,51282.34,49.78,21,49.74
+Cheese,Cheese Slice 100gm,2021,8,Aug,3,1,0,0,1,0,49.0,2436.02,49.29,3,49.71
+Cheese,Cheese Slice 100gm,2021,9,Sep,3,0,0,0,1,0,526.0,26068.22,49.39,18,49.56
+Cheese,Cheese Slice 100gm,2021,9,Sep,3,1,0,0,1,0,259.0,12978.08,50.06,5,50.11
+Cheese,Cheese Slice 100gm,2021,10,Oct,4,0,0,0,0,0,807.0,39837.21,49.45,28,49.36
+Cheese,Cheese Slice 100gm,2021,11,Nov,4,0,0,0,0,1,711.0,35168.26,49.95,29,49.46
+Cheese,Cheese Slice 100gm,2021,12,Dec,4,0,0,0,0,1,508.0,25025.21,49.2,19,49.26
+Cheese,Cheese Slice 100gm,2021,12,Dec,4,1,0,0,0,1,390.0,19306.1,49.34,11,49.5
+Cheese,Cheese Slice 100gm,2022,1,Jan,1,0,0,0,0,1,600.0,29694.22,49.51,23,49.49
+Cheese,Cheese Slice 100gm,2022,1,Jan,1,1,0,0,0,1,76.0,3745.07,49.47,5,49.28
+Cheese,Cheese Slice 100gm,2022,2,Feb,1,0,0,0,0,0,456.0,22512.26,49.72,27,49.37
+Cheese,Cheese Slice 100gm,2022,3,Mar,1,0,1,0,0,0,466.0,23114.28,50.36,26,49.6
+Cheese,Cheese Slice 100gm,2022,3,Mar,1,1,1,0,0,0,27.0,1344.02,50.32,2,49.78
+Cheese,Cheese Slice 100gm,2022,4,Apr,2,0,1,1,0,0,168.0,8309.05,49.31,10,49.46
+Cheese,Cheese Slice 100gm,2022,4,Apr,2,1,1,1,0,0,226.0,11130.09,50.16,7,49.25
+Cheese,Cheese Slice 100gm,2022,5,May,2,0,1,1,0,0,716.0,35490.28,50.01,24,49.57
+Cheese,Cheese Slice 100gm,2022,6,Jun,2,0,0,1,1,0,618.0,33351.1,54.52,20,53.97
+Cheese,Cheese Slice 100gm,2022,7,Jul,3,0,0,0,1,0,608.0,34280.0,56.64,27,56.38
+Cheese,Cheese Slice 100gm,2022,8,Aug,3,0,0,0,1,0,519.0,29144.01,56.08,22,56.15
+Cheese,Cheese Slice 100gm,2022,8,Aug,3,1,0,0,1,0,144.0,8303.97,57.4,7,57.67
+Cheese,Cheese Slice 100gm,2022,9,Sep,3,0,0,0,1,0,326.0,18416.02,56.42,19,56.49
+Cheese,Cheese Slice 100gm,2022,9,Sep,3,1,0,0,1,0,126.0,7144.01,57.44,9,56.7
+Cheese,Cheese Slice 100gm,2022,10,Oct,4,0,0,0,0,0,815.0,45847.99,56.21,27,56.26
+Cheese,Cheese Slice 100gm,2022,11,Nov,4,0,0,0,0,1,707.0,39895.98,56.56,28,56.43
+Cheese,Cheese Slice 100gm,2022,12,Dec,4,0,0,0,0,1,345.0,19399.98,56.1,16,56.23
+Cheese,Cheese Slice 100gm,2022,12,Dec,4,1,0,0,0,1,315.0,17688.0,56.27,12,56.15
+Cheese,Cheese Slice 100gm,2023,1,Jan,1,0,0,0,0,1,559.0,31360.0,56.37,25,56.1
+Cheese,Cheese Slice 100gm,2023,1,Jan,1,1,0,0,0,1,90.0,5040.0,56.0,5,56.0
+Cheese,Cheese Slice 100gm,2023,2,Feb,1,0,0,0,0,0,546.0,30832.04,56.6,26,56.47
+Cheese,Cheese Slice 100gm,2023,3,Mar,1,0,1,0,0,0,435.0,24400.02,56.07,21,56.09
+Cheese,Cheese Slice 100gm,2023,3,Mar,1,1,1,0,0,0,50.0,2920.0,58.36,2,58.4
+Cheese,Cheese Slice 100gm,2023,4,Apr,2,0,1,1,0,0,111.0,6288.01,56.48,4,56.65
+Cheese,Cheese Slice 100gm,2023,4,Apr,2,1,1,1,0,0,106.0,5936.0,56.0,6,56.0
+Cheese,Cheese Slice 100gm,2023,5,May,2,0,1,1,0,0,357.0,22626.15,64.37,13,63.38
+Cheese,Cheese Slice 100gm,2023,6,Jun,2,0,0,1,1,0,653.0,41409.26,63.44,25,63.41
+Cheese,Cheese Slice 100gm,2023,7,Jul,3,0,0,0,1,0,704.0,44838.25,63.92,22,63.69
+Cheese,Cheese Slice 100gm,2023,8,Aug,3,0,0,0,1,0,515.0,32787.22,63.55,20,63.66
+Cheese,Cheese Slice 100gm,2023,8,Aug,3,1,0,0,1,0,159.0,10059.38,63.6,5,63.27
+Cheese,Cheese Slice 100gm,2023,9,Sep,3,0,0,0,1,0,357.0,22671.27,63.25,19,63.5
+Cheese,Cheese Slice 100gm,2023,9,Sep,3,1,0,0,1,0,189.0,12060.1,63.73,6,63.81
+Cheese,Cheese Slice 100gm,2023,10,Oct,4,0,0,0,0,0,781.0,49410.35,63.62,23,63.27
+Cheese,Cheese Slice 100gm,2023,11,Nov,4,0,0,0,0,1,748.0,47259.28,63.14,20,63.18
+Cheese,Cheese Slice 100gm,2023,12,Dec,4,0,0,0,0,1,741.0,47025.16,63.79,19,63.46
+Cheese,Cheese Slice 100gm,2023,12,Dec,4,1,0,0,0,1,299.0,18837.13,63.0,12,63.0
+Cheese,Cheese Slice 100gm,2024,1,Jan,1,0,0,0,0,1,553.0,34968.8,63.2,22,63.23
+Cheese,Cheese Slice 100gm,2024,1,Jan,1,1,0,0,0,1,112.0,7056.06,63.0,5,63.0
+Cheese,Cheese Slice 100gm,2024,2,Feb,1,0,0,0,0,0,754.0,47601.3,63.15,26,63.13
+Cheese,Cheese Slice 100gm,2024,3,Mar,1,0,1,0,0,0,772.0,48840.67,63.23,25,63.27
+Cheese,Cheese Slice 100gm,2024,3,Mar,1,1,1,0,0,0,62.0,3906.06,63.0,3,63.0
+Cheese,Cheese Slice 100gm,2024,4,Apr,2,0,1,1,0,0,416.0,26250.55,63.06,17,63.1
+Cheese,Cheese Slice 100gm,2024,4,Apr,2,1,1,1,0,0,327.0,20646.13,63.12,10,63.14
+Cheese,Cheese Slice 100gm,2024,5,May,2,0,1,1,0,0,799.0,50670.4,63.28,28,63.42
+Cheese,Cheese Slice 100gm,2024,6,Jun,2,0,0,1,1,0,36.0,2268.0,63.0,2,63.0
+Cheese,Cheese Slice 100gm,2024,7,Jul,3,0,0,0,1,0,1623.0,102800.15,63.29,30,63.34
+Cheese,Cheese Slice 100gm,2024,8,Aug,3,0,0,0,1,0,902.0,57212.83,63.39,24,63.43
+Cheese,Cheese Slice 100gm,2024,8,Aug,3,1,0,0,1,0,178.0,11256.21,63.16,7,63.24
+Cheese,Cheese Slice 100gm,2024,9,Sep,3,0,0,0,1,0,448.0,28273.88,63.08,16,63.11
+Cheese,Cheese Slice 100gm,2024,9,Sep,3,1,0,0,1,0,354.0,22309.75,63.01,9,63.02
+Cheese,Cheese Slice 100gm,2024,10,Oct,4,0,0,0,0,0,892.0,56551.03,63.45,29,63.4
+Cheese,Cheese Slice 100gm,2024,11,Nov,4,0,0,0,0,1,953.0,60237.47,63.15,27,63.21
+Cheese,Cheese Slice 100gm,2024,12,Dec,4,0,0,0,0,1,751.0,47351.14,63.03,17,63.05
+Cheese,Cheese Slice 100gm,2024,12,Dec,4,1,0,0,0,1,326.0,20667.73,63.65,11,63.4
+Cheese,Cheese Slice 100gm,2025,1,Jan,1,0,0,0,0,1,757.0,47927.06,63.72,19,63.31
+Cheese,Cheese Slice 100gm,2025,1,Jan,1,1,0,0,0,1,75.0,4788.02,65.7,4,63.84
+Cheese,Cheese Slice 100gm,2025,2,Feb,1,0,0,0,0,0,1097.0,69405.77,63.35,26,63.27
+Cheese,Cheese Slice 100gm,2025,3,Mar,1,0,1,0,0,0,1200.0,76212.55,63.46,27,63.51
+Cheese,Cheese Slice 100gm,2025,3,Mar,1,1,1,0,0,0,82.0,5178.63,63.09,3,63.15
+Cheese,Cheese Slice 100gm,2025,4,Apr,2,0,1,1,0,0,565.0,35723.05,63.17,17,63.23
+Cheese,Cheese Slice 100gm,2025,4,Apr,2,1,1,1,0,0,490.0,31167.18,63.47,11,63.61
+Cheese,Cheese Slice 100gm,2025,5,May,2,0,1,1,0,0,906.0,57717.48,63.55,29,63.71
+Cheese,Cheese Slice 100gm,2025,6,Jun,2,0,0,1,1,0,1278.0,80906.85,63.3,27,63.31
+Cheese,Cheese Slice 100gm,2025,7,Jul,3,0,0,0,1,0,1947.0,123654.29,63.49,30,63.51
+Cheese,Cheese Slice 100gm,2025,8,Aug,3,0,0,0,1,0,1261.0,79929.41,63.5,24,63.39
+Cheese,Cheese Slice 100gm,2025,8,Aug,3,1,0,0,1,0,389.0,24685.32,63.32,7,63.46
+Cheese,Cheese Slice 100gm,2025,9,Sep,3,0,0,0,1,0,795.0,48408.18,61.34,17,60.89
+Cheese,Cheese Slice 100gm,2025,9,Sep,3,1,0,0,1,0,361.0,22793.53,63.15,9,63.14
+Cheese,Cheese Slice 100gm,2025,10,Oct,4,0,0,0,0,0,1622.0,96320.08,59.57,31,59.38
+Cheese,Cheese Slice 100gm,2025,11,Nov,4,0,0,0,0,1,1664.0,99018.34,59.51,23,59.51
+Cheese,Cheese Slice 100gm,2025,12,Dec,4,0,0,0,0,1,1372.0,81553.31,59.38,16,59.44
+Cheese,Cheese Slice 100gm,2025,12,Dec,4,1,0,0,0,1,786.0,47086.09,59.54,12,59.91
+Cheese,Cheese Spread Chilly Garlic 200gm,2021,4,Apr,2,0,1,1,0,0,8.0,574.65,72.77,3,71.83
+Cheese,Cheese Spread Chilly Garlic 200gm,2021,4,Apr,2,1,1,1,0,0,6.0,436.65,71.83,2,72.77
+Cheese,Cheese Spread Chilly Garlic 200gm,2021,6,Jun,2,0,0,1,1,0,30.0,2093.87,69.88,5,69.8
+Cheese,Cheese Spread Chilly Garlic 200gm,2021,7,Jul,3,0,0,0,1,0,40.0,2790.03,70.19,8,69.75
+Cheese,Cheese Spread Chilly Garlic 200gm,2021,8,Aug,3,0,0,0,1,0,7.0,493.02,70.26,4,70.43
+Cheese,Cheese Spread Chilly Garlic 200gm,2021,8,Aug,3,1,0,0,1,0,1.0,69.01,69.01,1,69.01
+Cheese,Cheese Spread Chilly Garlic 200gm,2021,9,Sep,3,0,0,0,1,0,12.0,828.0,69.0,4,69.0
+Cheese,Cheese Spread Chilly Garlic 200gm,2021,9,Sep,3,1,0,0,1,0,8.0,571.99,71.5,4,71.5
+Cheese,Cheese Spread Chilly Garlic 200gm,2021,10,Oct,4,0,0,0,0,0,28.0,1932.01,69.0,7,69.0
+Cheese,Cheese Spread Chilly Garlic 200gm,2021,11,Nov,4,0,0,0,0,1,24.0,1665.99,69.71,7,69.42
+Cheese,Cheese Spread Chilly Garlic 200gm,2021,12,Dec,4,0,0,0,0,1,15.0,1039.99,69.18,3,69.33
+Cheese,Cheese Spread Chilly Garlic 200gm,2021,12,Dec,4,1,0,0,0,1,8.0,552.0,69.0,3,69.0
+Cheese,Cheese Spread Chilly Garlic 200gm,2022,1,Jan,1,0,0,0,0,1,6.0,414.0,69.0,2,69.0
+Cheese,Cheese Spread Chilly Garlic 200gm,2022,1,Jan,1,1,0,0,0,1,3.0,207.0,69.0,1,69.0
+Cheese,Cheese Spread Chilly Garlic 200gm,2022,2,Feb,1,0,0,0,0,0,23.0,1586.98,69.0,5,69.0
+Cheese,Cheese Spread Chilly Garlic 200gm,2022,3,Mar,1,0,1,0,0,0,8.0,552.02,69.0,4,69.0
+Cheese,Cheese Spread Chilly Garlic 200gm,2022,4,Apr,2,0,1,1,0,0,5.0,344.99,69.0,3,69.0
+Cheese,Cheese Spread Chilly Garlic 200gm,2022,5,May,2,0,1,1,0,0,23.0,1597.0,69.71,7,69.43
+Cheese,Cheese Spread Chilly Garlic 200gm,2022,6,Jun,2,0,0,1,1,0,59.0,4350.98,73.17,10,73.75
+Cheese,Cheese Spread Pepper 200gm,2021,4,Apr,2,0,1,1,0,0,18.0,1304.27,72.77,6,72.46
+Cheese,Cheese Spread Pepper 200gm,2021,4,Apr,2,1,1,1,0,0,4.0,275.99,69.0,2,69.0
+Cheese,Cheese Spread Pepper 200gm,2021,5,May,2,0,1,1,0,0,4.0,276.0,69.0,1,69.0
+Cheese,Cheese Spread Pepper 200gm,2021,6,Jun,2,0,0,1,1,0,26.0,1795.22,69.12,5,69.05
+Cheese,Cheese Spread Pepper 200gm,2021,7,Jul,3,0,0,0,1,0,28.0,1935.68,69.2,6,69.13
+Cheese,Cheese Spread Pepper 200gm,2021,8,Aug,3,0,0,0,1,0,16.0,1114.01,70.0,5,69.63
+Cheese,Cheese Spread Pepper 200gm,2021,8,Aug,3,1,0,0,1,0,1.0,69.01,69.01,1,69.01
+Cheese,Cheese Spread Pepper 200gm,2021,9,Sep,3,0,0,0,1,0,7.0,482.99,69.0,2,69.0
+Cheese,Cheese Spread Pepper 200gm,2021,9,Sep,3,1,0,0,1,0,14.0,985.99,71.5,4,70.43
+Cheese,Cheese Spread Pepper 200gm,2021,10,Oct,4,0,0,0,0,0,15.0,1034.99,69.0,4,69.0
+Cheese,Cheese Spread Pepper 200gm,2021,11,Nov,4,0,0,0,0,1,24.0,1671.0,70.0,5,69.62
+Cheese,Cheese Spread Pepper 200gm,2021,12,Dec,4,0,0,0,0,1,16.0,1109.02,69.25,5,69.31
+Cheese,Cheese Spread Pepper 200gm,2021,12,Dec,4,1,0,0,0,1,12.0,838.0,70.67,3,69.83
+Cheese,Cheese Spread Pepper 200gm,2022,1,Jan,1,0,0,0,0,1,7.0,483.01,69.0,2,69.0
+Cheese,Cheese Spread Pepper 200gm,2022,1,Jan,1,1,0,0,0,1,3.0,207.0,69.0,1,69.0
+Cheese,Cheese Spread Pepper 200gm,2022,2,Feb,1,0,0,0,0,0,6.0,413.97,69.0,3,69.0
+Cheese,Cheese Spread Pepper 200gm,2022,3,Mar,1,0,1,0,0,0,4.0,276.01,69.01,3,69.0
+Cheese,Cheese Spread Pepper 200gm,2022,4,Apr,2,0,1,1,0,0,5.0,344.99,69.0,3,69.0
+Cheese,Cheese Spread Pepper 200gm,2022,4,Apr,2,1,1,1,0,0,5.0,344.99,69.0,2,69.0
+Cheese,Cheese Spread Pepper 200gm,2022,5,May,2,0,1,1,0,0,19.0,1330.97,70.25,8,70.05
+Cheese,Cheese Spread Pepper 200gm,2022,6,Jun,2,0,0,1,1,0,5.0,344.99,69.0,2,69.0
+Cheese,Cheese Spread Pepper 200gm,2022,7,Jul,3,0,0,0,1,0,24.0,1896.0,79.0,7,79.0
+Cheese,Cheese Spread Pepper 200gm,2022,8,Aug,3,0,0,0,1,0,3.0,236.99,79.0,2,79.0
+Cheese,Cheese Spread Pepper 200gm,2022,8,Aug,3,1,0,0,1,0,11.0,869.0,79.0,3,79.0
+Cheese,Cheese Spread Pepper 200gm,2022,9,Sep,3,0,0,0,1,0,2.0,157.99,79.0,1,79.0
+Cheese,Cheese Spread Pepper 200gm,2022,9,Sep,3,1,0,0,1,0,3.0,237.01,79.0,1,79.0
+Cheese,Cheese Spread Pepper 200gm,2022,11,Nov,4,0,0,0,0,1,1.0,79.0,79.0,1,79.0
+Cheese,Cheese Spread Pepper 200gm,2023,3,Mar,1,0,1,0,0,0,4.0,316.0,79.0,1,79.0
+Cheese,Cheese Spread Plain 200gm,2021,4,Apr,2,0,1,1,0,0,59.0,4222.5,71.39,10,71.57
+Cheese,Cheese Spread Plain 200gm,2021,4,Apr,2,1,1,1,0,0,49.0,3418.03,71.29,5,69.76
+Cheese,Cheese Spread Plain 200gm,2021,5,May,2,0,1,1,0,0,147.0,10534.76,71.03,22,71.67
+Cheese,Cheese Spread Plain 200gm,2021,6,Jun,2,0,0,1,1,0,201.0,14376.3,70.59,24,71.52
+Cheese,Cheese Spread Plain 200gm,2021,7,Jul,3,0,0,0,1,0,192.0,13630.6,70.79,23,70.99
+Cheese,Cheese Spread Plain 200gm,2021,8,Aug,3,0,0,0,1,0,137.0,9588.02,70.58,17,69.99
+Cheese,Cheese Spread Plain 200gm,2021,8,Aug,3,1,0,0,1,0,8.0,567.01,70.67,3,70.88
+Cheese,Cheese Spread Plain 200gm,2021,9,Sep,3,0,0,0,1,0,92.0,6382.96,69.28,15,69.38
+Cheese,Cheese Spread Plain 200gm,2021,9,Sep,3,1,0,0,1,0,55.0,3920.02,71.34,7,71.27
+Cheese,Cheese Spread Plain 200gm,2021,10,Oct,4,0,0,0,0,0,99.0,6891.03,69.75,17,69.61
+Cheese,Cheese Spread Plain 200gm,2021,11,Nov,4,0,0,0,0,1,72.0,5002.98,69.81,16,69.49
+Cheese,Cheese Spread Plain 200gm,2021,12,Dec,4,0,0,0,0,1,45.0,3139.98,69.29,8,69.78
+Cheese,Cheese Spread Plain 200gm,2021,12,Dec,4,1,0,0,0,1,34.0,2386.04,69.63,8,70.18
+Cheese,Cheese Spread Plain 200gm,2022,1,Jan,1,0,0,0,0,1,59.0,4090.98,69.5,14,69.34
+Cheese,Cheese Spread Plain 200gm,2022,1,Jan,1,1,0,0,0,1,11.0,783.99,72.33,3,71.27
+Cheese,Cheese Spread Plain 200gm,2022,2,Feb,1,0,0,0,0,0,85.0,5939.97,70.44,15,69.88
+Cheese,Cheese Spread Plain 200gm,2022,3,Mar,1,0,1,0,0,0,71.0,4973.97,69.68,14,70.06
+Cheese,Cheese Spread Plain 200gm,2022,3,Mar,1,1,1,0,0,0,3.0,207.0,69.0,1,69.0
+Cheese,Cheese Spread Plain 200gm,2022,4,Apr,2,0,1,1,0,0,63.0,4432.03,69.96,11,70.35
+Cheese,Cheese Spread Plain 200gm,2022,4,Apr,2,1,1,1,0,0,27.0,1872.96,69.72,7,69.37
+Cheese,Cheese Spread Plain 200gm,2022,5,May,2,0,1,1,0,0,74.0,5125.96,69.24,13,69.27
+Cheese,Cheese Spread Plain 200gm,2022,6,Jun,2,0,0,1,1,0,66.0,4714.0,72.07,12,71.42
+Cheese,Cheese Spread Plain 200gm,2022,7,Jul,3,0,0,0,1,0,75.0,5935.07,79.28,18,79.13
+Cheese,Cheese Spread Plain 200gm,2022,8,Aug,3,0,0,0,1,0,72.0,5752.97,80.0,13,79.9
+Cheese,Cheese Spread Plain 200gm,2022,8,Aug,3,1,0,0,1,0,8.0,631.99,79.0,2,79.0
+Cheese,Cheese Spread Plain 200gm,2022,9,Sep,3,0,0,0,1,0,17.0,1343.01,79.0,5,79.0
+Cheese,Cheese Spread Plain 200gm,2022,10,Oct,4,0,0,0,0,0,62.0,4927.93,79.23,16,79.48
+Cheese,Cheese Spread Plain 200gm,2022,11,Nov,4,0,0,0,0,1,59.0,4725.97,79.81,11,80.1
+Cheese,Cheese Spread Plain 200gm,2022,12,Dec,4,0,0,0,0,1,25.0,2004.99,79.98,7,80.2
+Cheese,Cheese Spread Plain 200gm,2022,12,Dec,4,1,0,0,0,1,24.0,1946.01,80.46,4,81.08
+Cheese,Cheese Spread Plain 200gm,2023,1,Jan,1,0,0,0,0,1,74.0,5870.99,79.33,15,79.34
+Cheese,Cheese Spread Plain 200gm,2023,1,Jan,1,1,0,0,0,1,14.0,1106.01,79.0,1,79.0
+Cheese,Cheese Spread Plain 200gm,2023,2,Feb,1,0,0,0,0,0,45.0,3554.96,79.0,14,79.0
+Cheese,Cheese Spread Plain 200gm,2023,3,Mar,1,0,1,0,0,0,25.0,2009.99,80.25,8,80.4
+Cheese,Cheese Spread Plain 200gm,2023,3,Mar,1,1,1,0,0,0,2.0,168.0,84.0,1,84.0
+Cheese,Cheese Spread Plain 200gm,2023,4,Apr,2,0,1,1,0,0,37.0,2947.98,80.14,5,79.68
+Cheese,Cheese Spread Plain 200gm,2023,4,Apr,2,1,1,1,0,0,22.0,1782.98,80.5,5,81.04
+Cheese,Cheese Spread Plain 200gm,2023,5,May,2,0,1,1,0,0,7.0,652.51,93.5,3,93.22
+Cheese,Cheese Spread Plain 200gm,2023,6,Jun,2,0,0,1,1,0,39.0,3640.52,92.86,11,93.35
+Cheese,Cheese Spread Plain 200gm,2023,7,Jul,3,0,0,0,1,0,52.0,4805.96,92.7,11,92.42
+Cheese,Cheese Spread Plain 200gm,2023,8,Aug,3,0,0,0,1,0,41.0,3817.48,93.04,13,93.11
+Cheese,Cheese Spread Plain 200gm,2023,8,Aug,3,1,0,0,1,0,3.0,279.99,93.33,1,93.33
+Cheese,Cheese Spread Plain 200gm,2023,9,Sep,3,0,0,0,1,0,39.0,3622.51,92.19,10,92.88
+Cheese,Cheese Spread Plain 200gm,2023,9,Sep,3,1,0,0,1,0,10.0,914.98,91.5,4,91.5
+Cheese,Cheese Spread Plain 200gm,2023,10,Oct,4,0,0,0,0,0,54.0,5007.01,92.36,15,92.72
+Cheese,Cheese Spread Plain 200gm,2023,11,Nov,4,0,0,0,0,1,55.0,5182.43,93.25,14,94.23
+Cheese,Cheese Spread Plain 200gm,2023,12,Dec,4,0,0,0,0,1,52.0,4770.0,92.05,11,91.73
+Cheese,Cheese Spread Plain 200gm,2023,12,Dec,4,1,0,0,0,1,10.0,926.97,93.0,4,92.7
+Cheese,Cheese Spread Plain 200gm,2024,1,Jan,1,0,0,0,0,1,42.0,3890.88,92.36,14,92.64
+Cheese,Cheese Spread Plain 200gm,2024,1,Jan,1,1,0,0,0,1,15.0,1402.51,92.5,3,93.5
+Cheese,Cheese Spread Plain 200gm,2024,2,Feb,1,0,0,0,0,0,59.0,5428.41,92.06,16,92.01
+Cheese,Cheese Spread Plain 200gm,2024,3,Mar,1,0,1,0,0,0,41.0,3805.43,92.6,12,92.82
+Cheese,Cheese Spread Plain 200gm,2024,4,Apr,2,0,1,1,0,0,29.0,2653.46,91.5,7,91.5
+Cheese,Cheese Spread Plain 200gm,2024,4,Apr,2,1,1,1,0,0,13.0,1207.5,92.4,4,92.88
+Cheese,Cheese Spread Plain 200gm,2024,5,May,2,0,1,1,0,0,28.0,2573.96,92.1,10,91.93
+Cheese,Cheese Spread Plain 200gm,2024,6,Jun,2,0,0,1,1,0,33.0,3067.47,92.73,10,92.95
+Cheese,Cheese Spread Plain 200gm,2024,7,Jul,3,0,0,0,1,0,35.0,3226.48,92.57,8,92.19
+Cheese,Cheese Spread Plain 200gm,2024,8,Aug,3,0,0,0,1,0,31.0,2866.5,92.87,12,92.47
+Cheese,Cheese Spread Plain 200gm,2024,8,Aug,3,1,0,0,1,0,10.0,914.99,91.5,4,91.5
+Cheese,Cheese Spread Plain 200gm,2024,9,Sep,3,0,0,0,1,0,25.0,2287.49,91.5,7,91.5
+Cheese,Cheese Spread Plain 200gm,2024,9,Sep,3,1,0,0,1,0,6.0,548.97,91.5,3,91.5
+Cheese,Cheese Spread Plain 200gm,2024,10,Oct,4,0,0,0,0,0,46.0,4245.07,92.7,10,92.28
+Cheese,Cheese Spread Plain 200gm,2024,11,Nov,4,0,0,0,0,1,32.0,2987.97,93.23,13,93.37
+Cheese,Cheese Spread Plain 200gm,2024,12,Dec,4,0,0,0,0,1,23.0,2128.49,92.83,9,92.54
+Cheese,Cheese Spread Plain 200gm,2024,12,Dec,4,1,0,0,0,1,15.0,1390.48,92.5,6,92.7
+Cheese,Cheese Spread Plain 200gm,2025,1,Jan,1,0,0,0,0,1,40.0,3660.01,91.5,11,91.5
+Cheese,Cheese Spread Plain 200gm,2025,2,Feb,1,0,0,0,0,0,31.0,2848.54,92.0,8,91.89
+Cheese,Cheese Spread Plain 200gm,2025,3,Mar,1,0,1,0,0,0,37.0,3433.51,92.29,13,92.8
+Cheese,Cheese Spread Plain 200gm,2025,3,Mar,1,1,1,0,0,0,6.0,549.0,91.5,2,91.5
+Cheese,Cheese Spread Plain 200gm,2025,4,Apr,2,0,1,1,0,0,26.0,2391.01,92.25,8,91.96
+Cheese,Cheese Spread Plain 200gm,2025,4,Apr,2,1,1,1,0,0,4.0,365.99,91.5,2,91.5
+Cheese,Cheese Spread Plain 200gm,2025,5,May,2,0,1,1,0,0,22.0,2012.95,91.5,10,91.5
+Cheese,Cheese Spread Plain 200gm,2025,6,Jun,2,0,0,1,1,0,47.0,4324.38,92.25,16,92.01
+Cheese,Cheese Spread Plain 200gm,2025,7,Jul,3,0,0,0,1,0,50.0,4623.0,92.38,15,92.46
+Cheese,Cheese Spread Plain 200gm,2025,8,Aug,3,0,0,0,1,0,30.0,2744.97,91.5,10,91.5
+Cheese,Cheese Spread Plain 200gm,2025,8,Aug,3,1,0,0,1,0,15.0,1372.51,91.5,3,91.5
+Cheese,Cheese Spread Plain 200gm,2025,9,Sep,3,0,0,0,1,0,23.0,2053.01,89.05,7,89.26
+Cheese,Cheese Spread Plain 200gm,2025,9,Sep,3,1,0,0,1,0,11.0,1018.5,93.5,3,92.59
+Cheese,Cheese Spread Plain 200gm,2025,10,Oct,4,0,0,0,0,0,67.0,5790.11,86.3,16,86.42
+Cheese,Cheese Spread Plain 200gm,2025,11,Nov,4,0,0,0,0,1,88.0,7604.9,86.05,16,86.42
+Cheese,Cheese Spread Plain 200gm,2025,12,Dec,4,0,0,0,0,1,33.0,2830.65,85.78,9,85.78
+Cheese,Cheese Spread Plain 200gm,2025,12,Dec,4,1,0,0,0,1,17.0,1458.25,85.78,4,85.78
+Curd,Dtm Curd 500g,2023,11,Nov,4,0,0,0,0,1,13060.0,391181.22,29.99,14,29.95
+Curd,Dtm Curd 500g,2023,12,Dec,4,0,0,0,0,1,21940.0,650364.37,29.64,19,29.64
+Curd,Dtm Curd 500g,2023,12,Dec,4,1,0,0,0,1,13365.0,396030.96,29.64,12,29.63
+Curd,Dtm Curd 500g,2024,1,Jan,1,0,0,0,0,1,25472.0,755830.99,29.68,26,29.67
+Curd,Dtm Curd 500g,2024,1,Jan,1,1,0,0,0,1,4450.0,131973.67,29.66,5,29.66
+Curd,Dtm Curd 500g,2024,2,Feb,1,0,0,0,0,0,29333.0,869548.89,29.66,29,29.64
+Curd,Dtm Curd 500g,2024,3,Mar,1,0,1,0,0,0,35736.0,1062476.11,29.73,27,29.73
+Curd,Dtm Curd 500g,2024,3,Mar,1,1,1,0,0,0,5737.0,170855.72,29.78,4,29.78
+Curd,Dtm Curd 500g,2024,4,Apr,2,0,1,1,0,0,23010.0,685173.07,29.83,18,29.78
+Curd,Dtm Curd 500g,2024,4,Apr,2,1,1,1,0,0,15718.0,468319.99,29.79,12,29.8
+Curd,Dtm Curd 500g,2024,5,May,2,0,1,1,0,0,26472.0,791133.72,29.93,31,29.89
+Curd,Dtm Curd 500g,2024,6,Jun,2,0,0,1,1,0,16556.0,494015.91,29.85,30,29.84
+Curd,Dtm Curd 500g,2024,7,Jul,3,0,0,0,1,0,12663.0,378129.37,29.9,30,29.86
+Curd,Dtm Curd 500g,2024,8,Aug,3,0,0,0,1,0,3175.0,93796.95,30.01,11,29.54
+Curd,Dtm Curd 500g,2025,1,Jan,1,0,0,0,0,1,10.0,308.39,30.84,1,30.84
+Curd,Kantharimoru 700 Ml Pet,2025,11,Nov,4,0,0,0,0,1,5564.0,221265.29,39.25,7,39.77
+Curd,Kantharimoru 700 Ml Pet,2025,12,Dec,4,0,0,0,0,1,10823.0,424612.74,39.22,19,39.23
+Curd,Kantharimoru 700 Ml Pet,2025,12,Dec,4,1,0,0,0,1,4055.0,158431.09,39.07,12,39.07
+Curd,Katta Thairu 400g,2021,1,Jan,1,0,0,0,0,1,180.0,6192.0,34.46,12,34.4
+Curd,Katta Thairu 400g,2021,1,Jan,1,1,0,0,0,1,72.0,2484.0,34.75,2,34.5
+Curd,Katta Thairu 400g,2021,2,Feb,1,0,0,0,0,0,312.0,10842.0,34.66,10,34.75
+Curd,Katta Thairu 400g,2021,3,Mar,1,0,1,0,0,0,336.0,11703.0,34.83,12,34.83
+Curd,Katta Thairu 400g,2021,3,Mar,1,1,1,0,0,0,120.0,4098.0,34.11,2,34.15
+Curd,Katta Thairu 400g,2021,4,Apr,2,0,1,1,0,0,60.0,2076.0,34.42,6,34.6
+Curd,Katta Thairu 400g,2021,4,Apr,2,1,1,1,0,0,84.0,2910.0,34.84,5,34.64
+Curd,Katta Thairu 400g,2021,5,May,2,0,1,1,0,0,108.0,3690.0,34.11,9,34.17
+Curd,Katta Thairu 400g,2021,6,Jun,2,0,0,1,1,0,60.0,2040.0,34.0,7,34.0
+Curd,Katta Thairu 400g,2021,7,Jul,3,0,0,0,1,0,78.0,2652.0,34.0,7,34.0
+Curd,Katta Thairu 400g,2021,8,Aug,3,0,0,0,1,0,108.0,3726.0,34.67,10,34.5
+Curd,Katta Thairu 400g,2021,8,Aug,3,1,0,0,1,0,24.0,834.0,34.5,3,34.75
+Curd,Katta Thairu 400g,2021,9,Sep,3,0,0,0,1,0,78.0,2706.0,34.83,6,34.69
+Curd,Katta Thairu 400g,2021,9,Sep,3,1,0,0,1,0,30.0,1038.0,34.75,4,34.6
+Curd,Katta Thairu 400g,2021,10,Oct,4,0,0,0,0,0,114.0,3966.0,34.88,13,34.79
+Curd,Katta Thairu 400g,2021,11,Nov,4,0,0,0,0,1,72.0,2466.0,34.21,7,34.25
+Curd,Katta Thairu 400g,2021,12,Dec,4,0,0,0,0,1,54.0,1836.0,34.0,5,34.0
+Curd,Katta Thairu 400g,2021,12,Dec,4,1,0,0,0,1,60.0,2112.0,34.94,4,35.2
+Curd,Katta Thairu 400g,2022,1,Jan,1,0,0,0,0,1,66.0,2316.0,34.86,7,35.09
+Curd,Katta Thairu 400g,2022,1,Jan,1,1,0,0,0,1,18.0,612.0,34.0,2,34.0
+Curd,Katta Thairu 400g,2022,2,Feb,1,0,0,0,0,0,78.0,2652.0,34.0,6,34.0
+Curd,Katta Thairu 400g,2022,3,Mar,1,0,1,0,0,0,60.0,2076.0,34.8,5,34.6
+Curd,Katta Thairu 400g,2022,3,Mar,1,1,1,0,0,0,72.0,2448.0,34.0,2,34.0
+Curd,Katta Thairu 400g,2022,4,Apr,2,0,1,1,0,0,6.0,204.0,34.0,1,34.0
+Curd,Katta Thairu 400g,2022,4,Apr,2,1,1,1,0,0,42.0,1428.0,34.0,4,34.0
+Curd,Katta Thairu 400g,2022,5,May,2,0,1,1,0,0,18.0,612.0,34.0,3,34.0
+Curd,Katta Thairu 400g,2022,7,Jul,3,0,0,0,1,0,60.0,2148.0,35.8,1,35.8
+Curd,Katta Thairu 400g,2023,3,Mar,1,1,1,0,0,0,6.0,237.61,39.6,1,39.6
+Curd,Kattimoru 250 Ml Sachet,2022,4,Apr,2,0,1,1,0,0,5740.0,64980.0,11.28,5,11.32
+Curd,Kattimoru 250 Ml Sachet,2022,5,May,2,0,1,1,0,0,1055.0,12075.0,11.56,11,11.45
+Curd,Kattimoru 250 Ml Sachet,2022,9,Sep,3,0,0,0,1,0,2298.0,26394.2,11.52,15,11.49
+Curd,Kattimoru 250 Ml Sachet,2022,10,Oct,4,0,0,0,0,0,185.0,2159.99,11.83,5,11.68
+Curd,Kattimoru 250 Ml Sachet,2024,2,Feb,1,0,0,0,0,0,30524.0,120.01,0.0,25,0.0
+Curd,Kattimoru 250 Ml Sachet,2024,3,Mar,1,0,1,0,0,0,58615.0,0.0,0.0,27,0.0
+Curd,Kattimoru 250 Ml Sachet,2024,3,Mar,1,1,1,0,0,0,11488.0,0.0,0.0,4,0.0
+Curd,Kattimoru 250 Ml Sachet,2024,4,Apr,2,1,1,1,0,0,20.0,239.99,12.0,1,12.0
+Curd,Kattimoru 450 Ml Pet,2025,2,Feb,1,0,0,0,0,0,24911.0,601351.68,24.15,26,24.14
+Curd,Kattimoru 450 Ml Pet,2025,3,Mar,1,0,1,0,0,0,45302.0,1092545.34,24.12,27,24.12
+Curd,Kattimoru 450 Ml Pet,2025,3,Mar,1,1,1,0,0,0,5931.0,143183.08,24.14,4,24.14
+Curd,Kattimoru 450 Ml Pet,2025,4,Apr,2,0,1,1,0,0,21692.0,523429.37,24.13,18,24.13
+Curd,Kattimoru 450 Ml Pet,2025,4,Apr,2,1,1,1,0,0,13414.0,323816.5,24.15,12,24.14
+Curd,Kattimoru 450 Ml Pet,2025,5,May,2,0,1,1,0,0,22663.0,546986.85,24.18,31,24.14
+Curd,Kattimoru 450 Ml Pet,2025,6,Jun,2,0,0,1,1,0,8190.0,198300.3,24.25,29,24.21
+Curd,Kattimoru 450 Ml Pet,2025,7,Jul,3,0,0,0,1,0,7118.0,172312.07,24.22,31,24.21
+Curd,Kattimoru 450 Ml Pet,2025,8,Aug,3,0,0,0,1,0,7963.0,191553.08,24.15,24,24.06
+Curd,Kattimoru 450 Ml Pet,2025,8,Aug,3,1,0,0,1,0,2242.0,54306.02,24.24,7,24.22
+Curd,Kattimoru 450 Ml Pet,2025,9,Sep,3,0,0,0,1,0,11473.0,273881.52,23.99,20,23.87
+Curd,Kattimoru 450 Ml Pet,2025,9,Sep,3,1,0,0,1,0,3240.0,78444.05,24.28,10,24.21
+Curd,Kattimoru 450 Ml Pet,2025,10,Oct,4,0,0,0,0,0,17889.0,427137.17,23.93,31,23.88
+Curd,Kattimoru 450 Ml Pet,2025,11,Nov,4,0,0,0,0,1,17682.0,424142.2,23.99,30,23.99
+Curd,Kattimoru 450 Ml Pet,2025,12,Dec,4,0,0,0,0,1,9577.0,229853.48,24.0,19,24.0
+Curd,Kattimoru 450 Ml Pet,2025,12,Dec,4,1,0,0,0,1,5928.0,141786.01,23.92,12,23.92
+Curd,Milma Katti Moru 1 Ltr,2022,6,Jun,2,0,0,1,1,0,400.0,15333.2,38.33,1,38.33
+Curd,Milma Katti Moru 1 Ltr,2022,7,Jul,3,0,0,0,1,0,400.0,16600.0,41.5,1,41.5
+Curd,Milma Katti Moru 1 Ltr,2022,8,Aug,3,0,0,0,1,0,400.0,16600.0,41.5,1,41.5
+Curd,Milma Katti Moru 1 Ltr,2022,9,Sep,3,0,0,0,1,0,74.0,3117.32,43.43,2,42.13
+Curd,Milma Katti Moru 1 Ltr,2022,9,Sep,3,1,0,0,1,0,12.0,521.16,43.43,1,43.43
+Curd,Milma Katti Moru 1 Ltr,2022,10,Oct,4,0,0,0,0,0,400.0,16600.0,41.5,1,41.5
+Curd,Milma Katti Moru 1 Ltr,2022,11,Nov,4,0,0,0,0,1,400.0,16600.0,41.5,1,41.5
+Curd,Milma Katti Moru 1 Ltr,2023,10,Oct,4,0,0,0,0,0,6.0,300.61,50.1,1,50.1
+Curd,Milma Katti Moru 500ml,2021,1,Jan,1,0,0,0,0,1,6622.0,163569.6,24.7,26,24.7
+Curd,Milma Katti Moru 500ml,2021,1,Jan,1,1,0,0,0,1,948.0,23349.6,24.64,5,24.63
+Curd,Milma Katti Moru 500ml,2021,2,Feb,1,0,0,0,0,0,12354.0,304884.0,24.68,28,24.68
+Curd,Milma Katti Moru 500ml,2021,3,Mar,1,0,1,0,0,0,32345.0,794241.0,24.56,27,24.56
+Curd,Milma Katti Moru 500ml,2021,3,Mar,1,1,1,0,0,0,5850.0,143499.6,24.54,4,24.53
+Curd,Milma Katti Moru 500ml,2021,4,Apr,2,0,1,1,0,0,13138.0,322437.6,24.52,18,24.54
+Curd,Milma Katti Moru 500ml,2021,4,Apr,2,1,1,1,0,0,13540.0,332179.2,24.54,12,24.53
+Curd,Milma Katti Moru 500ml,2021,5,May,2,0,1,1,0,0,10474.0,257076.0,24.59,31,24.54
+Curd,Milma Katti Moru 500ml,2021,6,Jun,2,0,0,1,1,0,5860.0,143643.6,24.44,30,24.51
+Curd,Milma Katti Moru 500ml,2021,7,Jul,3,0,0,0,1,0,4815.0,117903.6,24.38,30,24.49
+Curd,Milma Katti Moru 500ml,2021,8,Aug,3,0,0,0,1,0,2923.0,71802.0,24.35,22,24.56
+Curd,Milma Katti Moru 500ml,2021,8,Aug,3,1,0,0,1,0,1164.0,28706.4,24.73,7,24.66
+Curd,Milma Katti Moru 500ml,2021,9,Sep,3,0,0,0,1,0,4386.0,108054.0,24.65,20,24.64
+Curd,Milma Katti Moru 500ml,2021,9,Sep,3,1,0,0,1,0,1332.0,32691.6,24.35,9,24.54
+Curd,Milma Katti Moru 500ml,2021,10,Oct,4,0,0,0,0,0,6312.0,155001.6,24.59,31,24.56
+Curd,Milma Katti Moru 500ml,2021,11,Nov,4,0,0,0,0,1,6696.0,163674.0,24.46,30,24.44
+Curd,Milma Katti Moru 500ml,2021,12,Dec,4,0,0,0,0,1,6628.0,161474.4,24.37,19,24.36
+Curd,Milma Katti Moru 500ml,2021,12,Dec,4,1,0,0,0,1,4440.0,108151.2,24.4,12,24.36
+Curd,Milma Katti Moru 500ml,2022,1,Jan,1,0,0,0,0,1,11000.0,267231.6,24.3,26,24.29
+Curd,Milma Katti Moru 500ml,2022,1,Jan,1,1,0,0,0,1,2154.0,52358.4,24.31,5,24.31
+Curd,Milma Katti Moru 500ml,2022,2,Feb,1,0,0,0,0,0,18810.0,457081.2,24.3,28,24.3
+Curd,Milma Katti Moru 500ml,2022,3,Mar,1,0,1,0,0,0,33121.0,804511.8,24.29,27,24.29
+Curd,Milma Katti Moru 500ml,2022,3,Mar,1,1,1,0,0,0,5510.0,134290.8,24.4,4,24.37
+Curd,Milma Katti Moru 500ml,2022,4,Apr,2,0,1,1,0,0,18190.0,443430.0,24.39,18,24.38
+Curd,Milma Katti Moru 500ml,2022,4,Apr,2,1,1,1,0,0,12434.0,303321.6,24.4,12,24.39
+Curd,Milma Katti Moru 500ml,2022,5,May,2,0,1,1,0,0,10820.0,264164.4,24.49,28,24.41
+Curd,Milma Katti Moru 500ml,2022,6,Jun,2,0,0,1,1,0,7072.0,172332.0,24.15,27,24.37
+Curd,Milma Katti Moru 500ml,2022,7,Jul,3,0,0,0,1,0,2357.0,61709.9,26.05,15,26.18
+Curd,Milma Katti Moru 500ml,2022,8,Aug,3,0,0,0,1,0,2524.0,66990.68,26.67,22,26.54
+Curd,Milma Katti Moru 500ml,2022,9,Sep,3,0,0,0,1,0,2280.0,59772.9,26.23,15,26.22
+Curd,Milma Katti Moru 500ml,2022,9,Sep,3,1,0,0,1,0,18.0,489.61,27.2,2,27.2
+Curd,Milma Katti Moru 500ml,2022,10,Oct,4,0,0,0,0,0,7814.0,205349.96,26.24,29,26.28
+Curd,Milma Katti Moru 500ml,2022,11,Nov,4,0,0,0,0,1,9400.0,247134.38,26.3,30,26.29
+Curd,Milma Katti Moru 500ml,2022,12,Dec,4,0,0,0,0,1,4770.0,135130.51,28.32,18,28.33
+Curd,Milma Katti Moru 500ml,2022,12,Dec,4,1,0,0,0,1,4120.0,116733.34,28.34,12,28.33
+Curd,Milma Katti Moru 500ml,2023,1,Jan,1,0,0,0,0,1,8952.0,253101.69,28.27,26,28.27
+Curd,Milma Katti Moru 500ml,2023,1,Jan,1,1,0,0,0,1,1497.0,42353.73,28.31,5,28.29
+Curd,Milma Katti Moru 500ml,2023,2,Feb,1,0,0,0,0,0,15441.0,435306.76,28.2,28,28.19
+Curd,Milma Katti Moru 500ml,2023,3,Mar,1,0,1,0,0,0,30111.0,847009.71,28.13,27,28.13
+Curd,Milma Katti Moru 500ml,2023,3,Mar,1,1,1,0,0,0,4458.0,125435.28,28.14,4,28.14
+Curd,Milma Katti Moru 500ml,2023,4,Apr,2,0,1,1,0,0,23033.0,648152.03,28.15,18,28.14
+Curd,Milma Katti Moru 500ml,2023,4,Apr,2,1,1,1,0,0,15937.0,448749.93,28.16,12,28.16
+Curd,Milma Katti Moru 500ml,2023,5,May,2,0,1,1,0,0,27300.0,768377.82,28.14,31,28.15
+Curd,Milma Katti Moru 500ml,2023,6,Jun,2,0,0,1,1,0,12304.0,348047.25,28.33,30,28.29
+Curd,Milma Katti Moru 500ml,2023,7,Jul,3,0,0,0,1,0,6836.0,192587.16,28.33,31,28.17
+Curd,Milma Katti Moru 500ml,2023,8,Aug,3,0,0,0,1,0,8436.0,239116.08,28.39,24,28.34
+Curd,Milma Katti Moru 500ml,2023,8,Aug,3,1,0,0,1,0,1356.0,38361.39,27.63,5,28.29
+Curd,Milma Katti Moru 500ml,2023,9,Sep,3,0,0,0,1,0,5771.0,162596.54,28.38,20,28.17
+Curd,Milma Katti Moru 500ml,2023,9,Sep,3,1,0,0,1,0,2966.0,84315.31,28.47,10,28.43
+Curd,Milma Katti Moru 500ml,2023,10,Oct,4,0,0,0,0,0,13266.0,373777.24,28.28,31,28.18
+Curd,Milma Katti Moru 500ml,2023,11,Nov,4,0,0,0,0,1,12097.0,342635.4,28.33,30,28.32
+Curd,Milma Katti Moru 500ml,2023,12,Dec,4,0,0,0,0,1,8514.0,240025.01,28.24,19,28.19
+Curd,Milma Katti Moru 500ml,2023,12,Dec,4,1,0,0,0,1,4691.0,132451.64,28.23,12,28.24
+Curd,Milma Katti Moru 500ml,2024,1,Jan,1,0,0,0,0,1,11587.0,327268.03,28.25,26,28.24
+Curd,Milma Katti Moru 500ml,2024,1,Jan,1,1,0,0,0,1,2696.0,75341.33,28.07,5,27.95
+Curd,Milma Katti Moru 500ml,2024,2,Feb,1,0,0,0,0,0,32958.0,926053.74,28.11,29,28.1
+Curd,Milma Katti Moru 500ml,2024,3,Mar,1,0,1,0,0,0,58615.0,1644090.9,28.03,27,28.05
+Curd,Milma Katti Moru 500ml,2024,3,Mar,1,1,1,0,0,0,11488.0,322694.48,28.09,4,28.09
+Curd,Milma Katti Moru 500ml,2024,4,Apr,2,0,1,1,0,0,46923.0,1316781.12,28.06,18,28.06
+Curd,Milma Katti Moru 500ml,2024,4,Apr,2,1,1,1,0,0,31819.0,893250.68,28.08,12,28.07
+Curd,Milma Katti Moru 500ml,2024,5,May,2,0,1,1,0,0,40131.0,1125750.71,28.11,31,28.05
+Curd,Milma Katti Moru 500ml,2024,6,Jun,2,0,0,1,1,0,9373.0,263833.72,28.2,30,28.15
+Curd,Milma Katti Moru 500ml,2024,7,Jul,3,0,0,0,1,0,7493.0,210366.78,28.22,31,28.08
+Curd,Milma Katti Moru 500ml,2024,8,Aug,3,0,0,0,1,0,6934.0,195964.51,28.28,24,28.26
+Curd,Milma Katti Moru 500ml,2024,8,Aug,3,1,0,0,1,0,1951.0,55155.14,28.3,7,28.27
+Curd,Milma Katti Moru 500ml,2024,9,Sep,3,0,0,0,1,0,6693.0,189031.88,28.25,20,28.24
+Curd,Milma Katti Moru 500ml,2024,9,Sep,3,1,0,0,1,0,3634.0,101867.49,28.24,10,28.03
+Curd,Milma Katti Moru 500ml,2024,10,Oct,4,0,0,0,0,0,13526.0,379900.61,28.17,31,28.09
+Curd,Milma Katti Moru 500ml,2024,11,Nov,4,0,0,0,0,1,14509.0,408284.52,28.18,30,28.14
+Curd,Milma Katti Moru 500ml,2024,12,Dec,4,0,0,0,0,1,8989.0,251921.64,28.09,19,28.03
+Curd,Milma Katti Moru 500ml,2024,12,Dec,4,1,0,0,0,1,5791.0,162927.6,28.14,12,28.13
+Curd,Milma Katti Moru 500ml,2025,1,Jan,1,0,0,0,0,1,12042.0,338402.78,28.1,26,28.1
+Curd,Milma Katti Moru 500ml,2025,1,Jan,1,1,0,0,0,1,2406.0,67547.75,28.07,5,28.07
+Curd,Milma Katti Moru 500ml,2025,2,Feb,1,0,0,0,0,0,1473.0,41269.22,27.7,3,28.02
+Curd,Probiotic Set Curd 1000 G,2024,11,Nov,4,0,0,0,0,1,2.0,192.0,96.0,1,96.0
+Curd,Probiotic Set Curd 1000 G,2024,12,Dec,4,0,0,0,0,1,852.0,81851.92,96.73,9,96.07
+Curd,Probiotic Set Curd 1000 G,2024,12,Dec,4,1,0,0,0,1,49.0,4819.92,97.01,7,98.37
+Curd,Probiotic Set Curd 1000 G,2025,1,Jan,1,0,0,0,0,1,123.0,12025.74,97.5,13,97.77
+Curd,Probiotic Set Curd 1000 G,2025,2,Feb,1,0,0,0,0,0,201.0,19531.6,97.88,16,97.17
+Curd,Probiotic Set Curd 1000 G,2025,3,Mar,1,0,1,0,0,0,582.0,36955.97,91.67,17,63.5
+Curd,Probiotic Set Curd 1000 G,2025,3,Mar,1,1,1,0,0,0,222.0,11796.02,74.28,2,53.14
+Curd,Probiotic Set Curd 1000 G,2025,4,Apr,2,0,1,1,0,0,173.0,16867.81,97.72,13,97.5
+Curd,Probiotic Set Curd 1000 G,2025,4,Apr,2,1,1,1,0,0,895.0,46644.05,85.89,9,52.12
+Curd,Probiotic Set Curd 1000 G,2025,5,May,2,0,1,1,0,0,278.0,27041.89,96.98,21,97.27
+Curd,Probiotic Set Curd 1000 G,2025,6,Jun,2,0,0,1,1,0,809.0,78000.02,97.41,18,96.42
+Curd,Probiotic Set Curd 1000 G,2025,7,Jul,3,0,0,0,1,0,185.0,18026.09,97.32,19,97.44
+Curd,Probiotic Set Curd 1000 G,2025,8,Aug,3,0,0,0,1,0,270.0,26158.03,97.86,14,96.88
+Curd,Probiotic Set Curd 1000 G,2025,8,Aug,3,1,0,0,1,0,31.0,3060.01,97.04,3,98.71
+Curd,Probiotic Set Curd 1000 G,2025,9,Sep,3,0,0,0,1,0,340.0,32892.03,96.61,12,96.74
+Curd,Probiotic Set Curd 1000 G,2025,9,Sep,3,1,0,0,1,0,43.0,4198.03,97.02,5,97.63
+Curd,Probiotic Set Curd 1000 G,2025,10,Oct,4,0,0,0,0,0,285.0,27801.76,97.62,19,97.55
+Curd,Probiotic Set Curd 1000 G,2025,11,Nov,4,0,0,0,0,1,426.0,41400.09,97.54,21,97.18
+Curd,Probiotic Set Curd 1000 G,2025,12,Dec,4,0,0,0,0,1,386.0,37563.9,98.87,13,97.32
+Curd,Probiotic Set Curd 1000 G,2025,12,Dec,4,1,0,0,0,1,243.0,23580.01,98.3,9,97.04
+Curd,Probiotic Set Curd 400 G,2025,11,Nov,4,0,0,0,0,1,48.0,1577.29,32.86,1,32.86
+Curd,Probiotic Set Curd 400 G,2025,12,Dec,4,0,0,0,0,1,26.0,854.35,32.86,2,32.86
+Curd,Probiotic Set Curd 400 G,2025,12,Dec,4,1,0,0,0,1,54.0,1774.44,32.86,2,32.86
+Curd,Set Curd 1 Kg - Toned Milk,2022,12,Dec,4,0,0,0,0,1,101.0,9780.09,98.15,13,96.83
+Curd,Set Curd 1 Kg - Toned Milk,2022,12,Dec,4,1,0,0,0,1,37.0,3551.95,96.0,7,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,1,Jan,1,0,0,0,0,1,74.0,7103.94,96.0,11,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,1,Jan,1,1,0,0,0,1,38.0,3648.04,96.0,4,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,2,Feb,1,0,0,0,0,0,52.0,4992.02,96.0,14,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,3,Mar,1,0,1,0,0,0,56.0,5376.01,96.0,13,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,3,Mar,1,1,1,0,0,0,12.0,1152.0,96.0,1,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,4,Apr,2,0,1,1,0,0,32.0,3072.0,96.0,8,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,4,Apr,2,1,1,1,0,0,17.0,1632.01,96.0,5,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,5,May,2,0,1,1,0,0,49.0,4704.02,96.0,12,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,6,Jun,2,0,0,1,1,0,20.0,1919.98,96.0,6,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,7,Jul,3,0,0,0,1,0,12.0,1151.97,96.0,3,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,8,Aug,3,0,0,0,1,0,17.0,1632.0,96.0,4,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,8,Aug,3,1,0,0,1,0,7.0,672.0,96.0,1,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,9,Sep,3,0,0,0,1,0,11.0,1056.02,96.0,3,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,9,Sep,3,1,0,0,1,0,7.0,672.0,96.0,2,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,10,Oct,4,0,0,0,0,0,35.0,3359.98,96.0,8,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,11,Nov,4,0,0,0,0,1,49.0,4704.02,96.0,9,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,12,Dec,4,0,0,0,0,1,19.0,1823.99,96.0,5,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2023,12,Dec,4,1,0,0,0,1,17.0,1632.01,96.0,5,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2024,1,Jan,1,0,0,0,0,1,28.0,2688.02,96.0,7,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2024,1,Jan,1,1,0,0,0,1,7.0,672.0,96.0,2,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2024,2,Feb,1,0,0,0,0,0,134.0,12864.01,96.0,8,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2024,3,Mar,1,0,1,0,0,0,593.0,56928.01,96.0,16,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2024,3,Mar,1,1,1,0,0,0,7.0,672.0,96.0,1,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2024,4,Apr,2,0,1,1,0,0,660.0,63360.02,96.0,9,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2024,4,Apr,2,1,1,1,0,0,771.0,74016.0,96.0,8,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2024,5,May,2,0,1,1,0,0,688.0,66048.04,96.0,14,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2024,6,Jun,2,0,0,1,1,0,933.0,89575.7,96.11,14,96.01
+Curd,Set Curd 1 Kg - Toned Milk,2024,7,Jul,3,0,0,0,1,0,1895.0,113364.04,86.71,19,59.82
+Curd,Set Curd 1 Kg - Toned Milk,2024,8,Aug,3,0,0,0,1,0,352.0,33820.03,96.33,12,96.08
+Curd,Set Curd 1 Kg - Toned Milk,2024,8,Aug,3,1,0,0,1,0,74.0,7146.03,98.8,5,96.57
+Curd,Set Curd 1 Kg - Toned Milk,2024,9,Sep,3,0,0,0,1,0,174.0,16746.02,96.67,9,96.24
+Curd,Set Curd 1 Kg - Toned Milk,2024,9,Sep,3,1,0,0,1,0,141.0,13564.0,98.0,7,96.2
+Curd,Set Curd 1 Kg - Toned Milk,2024,10,Oct,4,0,0,0,0,0,249.0,24030.09,96.64,15,96.51
+Curd,Set Curd 1 Kg - Toned Milk,2024,11,Nov,4,0,0,0,0,1,199.0,19114.03,96.94,17,96.05
+Curd,Set Curd 1 Kg - Toned Milk,2024,12,Dec,4,0,0,0,0,1,97.0,8915.99,88.65,13,91.92
+Curd,Set Curd 1 Kg - Toned Milk,2024,12,Dec,4,1,0,0,0,1,35.0,3082.01,87.09,6,88.06
+Curd,Set Curd 1 Kg - Toned Milk,2025,1,Jan,1,0,0,0,0,1,177.0,17118.08,97.0,15,96.71
+Curd,Set Curd 1 Kg - Toned Milk,2025,2,Feb,1,0,0,0,0,0,252.0,24290.01,96.72,11,96.39
+Curd,Set Curd 1 Kg - Toned Milk,2025,3,Mar,1,0,1,0,0,0,935.0,58616.11,91.55,17,62.69
+Curd,Set Curd 1 Kg - Toned Milk,2025,3,Mar,1,1,1,0,0,0,510.0,24960.02,48.94,1,48.94
+Curd,Set Curd 1 Kg - Toned Milk,2025,4,Apr,2,0,1,1,0,0,91.0,8851.87,99.2,9,97.27
+Curd,Set Curd 1 Kg - Toned Milk,2025,4,Apr,2,1,1,1,0,0,819.0,41254.04,91.39,7,50.37
+Curd,Set Curd 1 Kg - Toned Milk,2025,5,May,2,0,1,1,0,0,196.0,18956.05,97.69,16,96.71
+Curd,Set Curd 1 Kg - Toned Milk,2025,6,Jun,2,0,0,1,1,0,492.0,47288.02,97.18,14,96.11
+Curd,Set Curd 1 Kg - Toned Milk,2025,7,Jul,3,0,0,0,1,0,121.0,11644.03,96.27,8,96.23
+Curd,Set Curd 1 Kg - Toned Milk,2025,8,Aug,3,0,0,0,1,0,212.0,20394.0,98.33,12,96.2
+Curd,Set Curd 1 Kg - Toned Milk,2025,8,Aug,3,1,0,0,1,0,13.0,1248.02,96.0,2,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2025,9,Sep,3,0,0,0,1,0,282.0,27128.01,99.18,11,96.2
+Curd,Set Curd 1 Kg - Toned Milk,2025,9,Sep,3,1,0,0,1,0,18.0,1728.02,96.0,2,96.0
+Curd,Set Curd 1 Kg - Toned Milk,2025,10,Oct,4,0,0,0,0,0,204.0,19724.06,98.56,15,96.69
+Curd,Set Curd 1 Kg - Toned Milk,2025,11,Nov,4,0,0,0,0,1,302.0,29118.02,98.73,13,96.42
+Curd,Set Curd 1 Kg - Toned Milk,2025,12,Dec,4,0,0,0,0,1,1217.0,116930.0,97.41,9,96.08
+Curd,Set Curd 1 Kg - Toned Milk,2025,12,Dec,4,1,0,0,0,1,179.0,17212.0,96.06,5,96.16
+Curd,Skimmed Milk Curd 500gm,2021,1,Jan,1,0,0,0,0,1,431554.0,10461381.61,24.24,26,24.24
+Curd,Skimmed Milk Curd 500gm,2021,1,Jan,1,1,0,0,0,1,79423.0,1926424.68,24.26,5,24.26
+Curd,Skimmed Milk Curd 500gm,2021,2,Feb,1,0,0,0,0,0,496489.0,12033133.18,24.24,28,24.24
+Curd,Skimmed Milk Curd 500gm,2021,3,Mar,1,0,1,0,0,0,626522.0,15164024.18,24.2,27,24.2
+Curd,Skimmed Milk Curd 500gm,2021,3,Mar,1,1,1,0,0,0,100258.0,2426158.08,24.2,4,24.2
+Curd,Skimmed Milk Curd 500gm,2021,4,Apr,2,0,1,1,0,0,331017.0,8003523.08,24.18,18,24.18
+Curd,Skimmed Milk Curd 500gm,2021,4,Apr,2,1,1,1,0,0,292735.0,7078386.74,24.19,12,24.18
+Curd,Skimmed Milk Curd 500gm,2021,5,May,2,0,1,1,0,0,421883.0,10187730.0,24.15,31,24.15
+Curd,Skimmed Milk Curd 500gm,2021,6,Jun,2,0,0,1,1,0,341416.0,8244163.44,24.15,30,24.15
+Curd,Skimmed Milk Curd 500gm,2021,7,Jul,3,0,0,0,1,0,385346.0,9303528.52,24.15,31,24.14
+Curd,Skimmed Milk Curd 500gm,2021,8,Aug,3,0,0,0,1,0,408675.0,9873247.4,24.15,24,24.16
+Curd,Skimmed Milk Curd 500gm,2021,8,Aug,3,1,0,0,1,0,85261.0,2059011.58,24.15,7,24.15
+Curd,Skimmed Milk Curd 500gm,2021,9,Sep,3,0,0,0,1,0,284533.0,6873155.71,24.16,20,24.16
+Curd,Skimmed Milk Curd 500gm,2021,9,Sep,3,1,0,0,1,0,126515.0,3056181.73,24.16,10,24.16
+Curd,Skimmed Milk Curd 500gm,2021,10,Oct,4,0,0,0,0,0,441218.0,10642660.45,24.12,31,24.12
+Curd,Skimmed Milk Curd 500gm,2021,11,Nov,4,0,0,0,0,1,433347.0,10443755.24,24.1,30,24.1
+Curd,Skimmed Milk Curd 500gm,2021,12,Dec,4,0,0,0,0,1,312020.0,7523250.53,24.11,19,24.11
+Curd,Skimmed Milk Curd 500gm,2021,12,Dec,4,1,0,0,0,1,201956.0,4868546.77,24.11,12,24.11
+Curd,Skimmed Milk Curd 500gm,2022,1,Jan,1,0,0,0,0,1,413986.0,9981736.9,24.11,26,24.11
+Curd,Skimmed Milk Curd 500gm,2022,1,Jan,1,1,0,0,0,1,84723.0,2042300.81,24.11,5,24.11
+Curd,Skimmed Milk Curd 500gm,2022,2,Feb,1,0,0,0,0,0,478014.0,11544085.71,24.15,28,24.15
+Curd,Skimmed Milk Curd 500gm,2022,3,Mar,1,0,1,0,0,0,565831.0,13680908.24,24.18,27,24.18
+Curd,Skimmed Milk Curd 500gm,2022,3,Mar,1,1,1,0,0,0,87482.0,2114401.03,24.17,4,24.17
+Curd,Skimmed Milk Curd 500gm,2022,4,Apr,2,0,1,1,0,0,384109.0,9279877.89,24.17,18,24.16
+Curd,Skimmed Milk Curd 500gm,2022,4,Apr,2,1,1,1,0,0,246960.0,5971130.4,24.18,12,24.18
+Curd,Skimmed Milk Curd 500gm,2022,5,May,2,0,1,1,0,0,548320.0,13255089.56,24.17,31,24.17
+Curd,Skimmed Milk Curd 500gm,2022,6,Jun,2,0,0,1,1,0,432151.0,10441364.83,24.16,30,24.16
+Curd,Skimmed Milk Curd 500gm,2022,7,Jul,3,0,0,0,1,0,419233.0,10559821.15,25.18,31,25.19
+Curd,Skimmed Milk Curd 500gm,2022,8,Aug,3,0,0,0,1,0,346218.0,9164393.42,26.47,24,26.47
+Curd,Skimmed Milk Curd 500gm,2022,8,Aug,3,1,0,0,1,0,112773.0,2987024.95,26.48,7,26.49
+Curd,Skimmed Milk Curd 500gm,2022,9,Sep,3,0,0,0,1,0,300174.0,7945000.14,26.47,20,26.47
+Curd,Skimmed Milk Curd 500gm,2022,9,Sep,3,1,0,0,1,0,308697.0,8173701.95,26.46,10,26.48
+Curd,Skimmed Milk Curd 500gm,2022,10,Oct,4,0,0,0,0,0,525317.0,13904343.66,26.47,31,26.47
+Curd,Skimmed Milk Curd 500gm,2022,11,Nov,4,0,0,0,0,1,523478.0,13854230.21,26.46,30,26.47
+Curd,Skimmed Milk Curd 525g,2022,1,Jan,1,0,0,0,0,1,6270.0,162216.2,25.87,26,25.87
+Curd,Skimmed Milk Curd 525g,2022,1,Jan,1,1,0,0,0,1,300.0,8100.0,27.0,1,27.0
+Curd,Skimmed Milk Curd 525g,2022,2,Feb,1,0,0,0,0,0,38574.0,1001049.65,25.93,28,25.95
+Curd,Skimmed Milk Curd 525g,2022,3,Mar,1,0,1,0,0,0,62428.0,1622343.8,25.99,27,25.99
+Curd,Skimmed Milk Curd 525g,2022,3,Mar,1,1,1,0,0,0,9895.0,257373.55,26.0,4,26.01
+Curd,Skimmed Milk Curd 525g,2022,4,Apr,2,0,1,1,0,0,47820.0,1244776.1,26.03,18,26.03
+Curd,Skimmed Milk Curd 525g,2022,4,Apr,2,1,1,1,0,0,27652.0,719978.94,26.04,12,26.04
+Curd,Skimmed Milk Curd 525g,2022,5,May,2,0,1,1,0,0,64795.0,1690998.8,26.1,31,26.1
+Curd,Skimmed Milk Curd 525g,2022,6,Jun,2,0,0,1,1,0,52114.0,1359990.9,26.1,30,26.1
+Curd,Skimmed Milk Curd 525g,2022,7,Jul,3,0,0,0,1,0,29314.0,765578.4,26.15,16,26.12
+Curd,Skimmed Milk Curd 525g,2022,12,Dec,4,0,0,0,0,1,293927.0,9022743.03,30.7,19,30.7
+Curd,Skimmed Milk Curd 525g,2022,12,Dec,4,1,0,0,0,1,231706.0,7109911.77,30.68,12,30.69
+Curd,Skimmed Milk Curd 525g,2023,1,Jan,1,0,0,0,0,1,449483.0,13781330.96,30.66,26,30.66
+Curd,Skimmed Milk Curd 525g,2023,1,Jan,1,1,0,0,0,1,83294.0,2557372.9,30.7,5,30.7
+Curd,Skimmed Milk Curd 525g,2023,2,Feb,1,0,0,0,0,0,538024.0,16483983.15,30.64,28,30.64
+Curd,Skimmed Milk Curd 525g,2023,3,Mar,1,0,1,0,0,0,625128.0,19148863.14,30.63,27,30.63
+Curd,Skimmed Milk Curd 525g,2023,3,Mar,1,1,1,0,0,0,87616.0,2683954.56,30.63,4,30.63
+Curd,Skimmed Milk Curd 525g,2023,4,Apr,2,0,1,1,0,0,560369.0,17162622.0,30.63,18,30.63
+Curd,Skimmed Milk Curd 525g,2023,4,Apr,2,1,1,1,0,0,335632.0,10284515.37,30.64,12,30.64
+Curd,Skimmed Milk Curd 525g,2023,5,May,2,0,1,1,0,0,718204.0,22005021.31,30.64,31,30.64
+Curd,Skimmed Milk Curd 525g,2023,6,Jun,2,0,0,1,1,0,524184.0,16045643.83,30.62,30,30.61
+Curd,Skimmed Milk Curd 525g,2023,7,Jul,3,0,0,0,1,0,386469.0,11830625.66,30.61,31,30.61
+Curd,Skimmed Milk Curd 525g,2023,8,Aug,3,0,0,0,1,0,393404.0,12044161.02,30.61,24,30.62
+Curd,Skimmed Milk Curd 525g,2023,8,Aug,3,1,0,0,1,0,261187.0,8003592.72,30.62,7,30.64
+Curd,Skimmed Milk Curd 525g,2023,9,Sep,3,0,0,0,1,0,283249.0,8675330.75,30.63,20,30.63
+Curd,Skimmed Milk Curd 525g,2023,9,Sep,3,1,0,0,1,0,171342.0,5250203.29,30.64,10,30.64
+Curd,Skimmed Milk Curd 525g,2023,10,Oct,4,0,0,0,0,0,495180.0,15160981.57,30.62,31,30.62
+Curd,Skimmed Milk Curd 525g,2023,11,Nov,4,0,0,0,0,1,475635.0,14565275.15,30.62,30,30.62
+Curd,Skimmed Milk Curd 525g,2023,12,Dec,4,0,0,0,0,1,292039.0,8947395.18,30.63,19,30.64
+Curd,Skimmed Milk Curd 525g,2023,12,Dec,4,1,0,0,0,1,216129.0,6620350.99,30.63,12,30.63
+Curd,Skimmed Milk Curd 525g,2024,1,Jan,1,0,0,0,0,1,421443.0,12913064.42,30.64,26,30.64
+Curd,Skimmed Milk Curd 525g,2024,1,Jan,1,1,0,0,0,1,72452.0,2218205.27,30.62,5,30.62
+Curd,Skimmed Milk Curd 525g,2024,2,Feb,1,0,0,0,0,0,534081.0,16359511.02,30.63,29,30.63
+Curd,Skimmed Milk Curd 525g,2024,3,Mar,1,0,1,0,0,0,641807.0,19664050.34,30.64,27,30.64
+Curd,Skimmed Milk Curd 525g,2024,3,Mar,1,1,1,0,0,0,115915.0,3549357.5,30.62,4,30.62
+Curd,Skimmed Milk Curd 525g,2024,4,Apr,2,0,1,1,0,0,593111.0,18164801.68,30.63,18,30.63
+Curd,Skimmed Milk Curd 525g,2024,4,Apr,2,1,1,1,0,0,344373.0,10556390.95,30.65,12,30.65
+Curd,Skimmed Milk Curd 525g,2024,5,May,2,0,1,1,0,0,661255.0,20263794.91,30.64,31,30.64
+Curd,Skimmed Milk Curd 525g,2024,6,Jun,2,0,0,1,1,0,463338.0,14181596.94,30.61,30,30.61
+Curd,Skimmed Milk Curd 525g,2024,7,Jul,3,0,0,0,1,0,357542.0,10941973.34,30.6,31,30.6
+Curd,Skimmed Milk Curd 525g,2024,8,Aug,3,0,0,0,1,0,338979.0,10382533.45,30.63,24,30.63
+Curd,Skimmed Milk Curd 525g,2024,8,Aug,3,1,0,0,1,0,105360.0,3225250.48,30.61,7,30.61
+Curd,Skimmed Milk Curd 525g,2024,9,Sep,3,0,0,0,1,0,422168.0,12928445.43,30.61,20,30.62
+Curd,Skimmed Milk Curd 525g,2024,9,Sep,3,1,0,0,1,0,158028.0,4840634.24,30.62,10,30.63
+Curd,Skimmed Milk Curd 525g,2024,10,Oct,4,0,0,0,0,0,455313.0,13938101.55,30.61,31,30.61
+Curd,Skimmed Milk Curd 525g,2024,11,Nov,4,0,0,0,0,1,477741.0,14628028.65,30.62,30,30.62
+Curd,Skimmed Milk Curd 525g,2024,12,Dec,4,0,0,0,0,1,272319.0,8335679.05,30.61,19,30.61
+Curd,Skimmed Milk Curd 525g,2024,12,Dec,4,1,0,0,0,1,227267.0,6956348.72,30.6,12,30.61
+Curd,Skimmed Milk Curd 525g,2025,1,Jan,1,0,0,0,0,1,406433.0,12445108.39,30.62,26,30.62
+Curd,Skimmed Milk Curd 525g,2025,1,Jan,1,1,0,0,0,1,81482.0,2493613.54,30.6,5,30.6
+Curd,Skimmed Milk Curd 525g,2025,2,Feb,1,0,0,0,0,0,521367.0,15973488.82,30.64,28,30.64
+Curd,Skimmed Milk Curd 525g,2025,3,Mar,1,0,1,0,0,0,566247.0,17347615.07,30.64,27,30.64
+Curd,Skimmed Milk Curd 525g,2025,3,Mar,1,1,1,0,0,0,156410.0,4787743.03,30.61,4,30.61
+Curd,Skimmed Milk Curd 525g,2025,4,Apr,2,0,1,1,0,0,389644.0,11943757.4,30.65,18,30.65
+Curd,Skimmed Milk Curd 525g,2025,4,Apr,2,1,1,1,0,0,277386.0,8500596.2,30.64,12,30.65
+Curd,Skimmed Milk Curd 525g,2025,5,May,2,0,1,1,0,0,583755.0,17882975.74,30.63,31,30.63
+Curd,Skimmed Milk Curd 525g,2025,6,Jun,2,0,0,1,1,0,435120.0,13308667.92,30.59,30,30.59
+Curd,Skimmed Milk Curd 525g,2025,7,Jul,3,0,0,0,1,0,367222.0,11230300.03,30.58,31,30.58
+Curd,Skimmed Milk Curd 525g,2025,8,Aug,3,0,0,0,1,0,338780.0,10364619.46,30.59,24,30.59
+Curd,Skimmed Milk Curd 525g,2025,8,Aug,3,1,0,0,1,0,132627.0,4057270.17,30.59,7,30.59
+Curd,Skimmed Milk Curd 525g,2025,9,Sep,3,0,0,0,1,0,320002.0,9783774.01,30.57,20,30.57
+Curd,Skimmed Milk Curd 525g,2025,9,Sep,3,1,0,0,1,0,274446.0,8398738.91,30.64,10,30.6
+Curd,Skimmed Milk Curd 525g,2025,10,Oct,4,0,0,0,0,0,496045.0,15169617.56,30.58,31,30.58
+Curd,Skimmed Milk Curd 525g,2025,11,Nov,4,0,0,0,0,1,503159.0,15390914.31,30.59,30,30.59
+Curd,Skimmed Milk Curd 525g,2025,12,Dec,4,0,0,0,0,1,301232.0,9210488.18,30.58,19,30.58
+Curd,Skimmed Milk Curd 525g,2025,12,Dec,4,1,0,0,0,1,222100.0,6789993.49,30.57,12,30.57
+Curd,Skimmed Milk Curd 5kg,2022,7,Jul,3,0,0,0,1,0,13.0,3510.03,270.01,5,270.0
+Curd,Skimmed Milk Curd 5kg,2022,8,Aug,3,0,0,0,1,0,92.0,24840.16,270.01,19,270.0
+Curd,Skimmed Milk Curd 5kg,2022,8,Aug,3,1,0,0,1,0,6.0,1620.03,270.01,3,270.0
+Curd,Skimmed Milk Curd 5kg,2022,9,Sep,3,0,0,0,1,0,6.0,1620.0,270.0,2,270.0
+Curd,Skimmed Milk Curd 5kg,2022,9,Sep,3,1,0,0,1,0,69.0,18630.0,270.0,6,270.0
+Curd,Skimmed Milk Curd 5kg,2022,10,Oct,4,0,0,0,0,0,2.0,540.01,270.01,1,270.0
+Curd,Skimmed Milk Curd 5kg,2022,12,Dec,4,0,0,0,0,1,45.0,13365.01,297.0,2,297.0
+Curd,Skimmed Milk Curd 5kg,2022,12,Dec,4,1,0,0,0,1,40.0,11880.0,297.0,2,297.0
+Curd,Skimmed Milk Curd 5kg,2023,1,Jan,1,0,0,0,0,1,326.0,93921.32,283.27,12,288.1
+Curd,Skimmed Milk Curd 5kg,2023,2,Feb,1,0,0,0,0,0,476.0,127105.15,268.91,22,267.03
+Curd,Skimmed Milk Curd 5kg,2023,3,Mar,1,0,1,0,0,0,301.0,81839.76,275.13,25,271.89
+Curd,Skimmed Milk Curd 5kg,2023,3,Mar,1,1,1,0,0,0,21.0,5917.74,279.28,4,281.8
+Curd,Skimmed Milk Curd 5kg,2023,4,Apr,2,0,1,1,0,0,283.0,76546.6,271.64,18,270.48
+Curd,Skimmed Milk Curd 5kg,2023,4,Apr,2,1,1,1,0,0,143.0,40928.78,283.19,11,286.22
+Curd,Skimmed Milk Curd 5kg,2023,5,May,2,0,1,1,0,0,721.0,196248.66,274.18,30,272.19
+Curd,Skimmed Milk Curd 5kg,2023,6,Jun,2,0,0,1,1,0,165.0,47873.86,287.08,22,290.14
+Curd,Skimmed Milk Curd 5kg,2023,7,Jul,3,0,0,0,1,0,99.0,28415.51,286.39,12,287.03
+Curd,Skimmed Milk Curd 5kg,2023,8,Aug,3,0,0,0,1,0,194.0,52525.77,271.17,11,270.75
+Curd,Skimmed Milk Curd 5kg,2023,8,Aug,3,1,0,0,1,0,153.0,41310.05,270.0,3,270.0
+Curd,Skimmed Milk Curd 5kg,2023,9,Sep,3,0,0,0,1,0,42.0,11340.03,270.0,3,270.0
+Curd,Skimmed Milk Curd 5kg,2023,9,Sep,3,1,0,0,1,0,160.0,44845.73,286.14,4,280.29
+Curd,Skimmed Milk Curd 5kg,2023,10,Oct,4,0,0,0,0,0,26.0,7302.84,284.03,4,280.88
+Curd,Skimmed Milk Curd 5kg,2023,11,Nov,4,0,0,0,0,1,103.0,27902.3,271.39,10,270.9
+Curd,Skimmed Milk Curd 5kg,2023,12,Dec,4,0,0,0,0,1,87.0,23490.11,270.0,13,270.0
+Curd,Skimmed Milk Curd 5kg,2023,12,Dec,4,1,0,0,0,1,147.0,39835.83,270.81,9,270.99
+Curd,Skimmed Milk Curd 5kg,2024,1,Jan,1,0,0,0,0,1,279.0,75184.3,270.99,21,269.48
+Curd,Skimmed Milk Curd 5kg,2024,1,Jan,1,1,0,0,0,1,28.0,8316.01,297.0,3,297.0
+Curd,Skimmed Milk Curd 5kg,2024,2,Feb,1,0,0,0,0,0,295.0,79470.25,269.38,22,269.39
+Curd,Skimmed Milk Curd 5kg,2024,3,Mar,1,0,1,0,0,0,341.0,92166.2,270.62,27,270.28
+Curd,Skimmed Milk Curd 5kg,2024,3,Mar,1,1,1,0,0,0,63.0,17010.02,270.0,4,270.0
+Curd,Skimmed Milk Curd 5kg,2024,4,Apr,2,0,1,1,0,0,451.0,121627.5,269.68,18,269.68
+Curd,Skimmed Milk Curd 5kg,2024,4,Apr,2,1,1,1,0,0,202.0,54480.09,269.67,12,269.7
+Curd,Skimmed Milk Curd 5kg,2024,5,May,2,0,1,1,0,0,562.0,151850.23,270.63,31,270.2
+Curd,Skimmed Milk Curd 5kg,2024,6,Jun,2,0,0,1,1,0,166.0,44660.12,269.56,29,269.04
+Curd,Skimmed Milk Curd 5kg,2024,7,Jul,3,0,0,0,1,0,129.0,38313.1,297.0,29,297.0
+Curd,Skimmed Milk Curd 5kg,2024,8,Aug,3,0,0,0,1,0,181.0,53235.04,295.78,24,294.12
+Curd,Skimmed Milk Curd 5kg,2024,8,Aug,3,1,0,0,1,0,69.0,20120.14,294.67,7,291.6
+Curd,Skimmed Milk Curd 5kg,2024,9,Sep,3,0,0,0,1,0,127.0,37607.22,295.87,18,296.12
+Curd,Skimmed Milk Curd 5kg,2024,9,Sep,3,1,0,0,1,0,99.0,29229.05,295.6,10,295.24
+Curd,Skimmed Milk Curd 5kg,2024,10,Oct,4,0,0,0,0,0,229.0,62552.11,275.56,30,273.15
+Curd,Skimmed Milk Curd 5kg,2024,11,Nov,4,0,0,0,0,1,633.0,167862.06,267.29,30,265.18
+Curd,Skimmed Milk Curd 5kg,2024,12,Dec,4,0,0,0,0,1,528.0,138850.03,264.12,19,262.97
+Curd,Skimmed Milk Curd 5kg,2024,12,Dec,4,1,0,0,0,1,399.0,105390.06,264.3,11,264.14
+Curd,Skimmed Milk Curd 5kg,2025,1,Jan,1,0,0,0,0,1,894.0,237153.11,265.11,26,265.27
+Curd,Skimmed Milk Curd 5kg,2025,1,Jan,1,1,0,0,0,1,106.0,27910.0,263.54,5,263.3
+Curd,Skimmed Milk Curd 5kg,2025,2,Feb,1,0,0,0,0,0,1035.0,276019.34,266.01,28,266.69
+Curd,Skimmed Milk Curd 5kg,2025,3,Mar,1,0,1,0,0,0,837.0,225315.63,266.74,27,269.19
+Curd,Skimmed Milk Curd 5kg,2025,3,Mar,1,1,1,0,0,0,141.0,37340.01,264.47,4,264.82
+Curd,Skimmed Milk Curd 5kg,2025,4,Apr,2,0,1,1,0,0,857.0,231693.71,269.84,18,270.35
+Curd,Skimmed Milk Curd 5kg,2025,4,Apr,2,1,1,1,0,0,605.0,163830.98,269.95,12,270.8
+Curd,Skimmed Milk Curd 5kg,2025,5,May,2,0,1,1,0,0,2000.0,542442.64,269.37,31,271.22
+Curd,Skimmed Milk Curd 5kg,2025,6,Jun,2,0,0,1,1,0,818.0,223143.37,270.96,30,272.79
+Curd,Skimmed Milk Curd 5kg,2025,7,Jul,3,0,0,0,1,0,540.0,144944.76,266.62,30,268.42
+Curd,Skimmed Milk Curd 5kg,2025,8,Aug,3,0,0,0,1,0,639.0,173219.69,269.11,24,271.08
+Curd,Skimmed Milk Curd 5kg,2025,8,Aug,3,1,0,0,1,0,742.0,202117.41,271.05,7,272.4
+Curd,Skimmed Milk Curd 5kg,2025,9,Sep,3,0,0,0,1,0,659.0,179143.36,268.88,20,271.84
+Curd,Skimmed Milk Curd 5kg,2025,9,Sep,3,1,0,0,1,0,812.0,216694.08,273.55,10,266.86
+Curd,Skimmed Milk Curd 5kg,2025,10,Oct,4,0,0,0,0,0,1138.0,309954.68,270.31,31,272.37
+Curd,Skimmed Milk Curd 5kg,2025,11,Nov,4,0,0,0,0,1,1472.0,397054.38,269.33,30,269.74
+Curd,Skimmed Milk Curd 5kg,2025,12,Dec,4,0,0,0,0,1,685.0,184420.15,269.27,19,269.23
+Curd,Skimmed Milk Curd 5kg,2025,12,Dec,4,1,0,0,0,1,662.0,180288.89,271.26,12,272.34
+Curd,Special Curd 500gm- Tonned Milk,2021,1,Jan,1,0,0,0,0,1,2810.0,82520.0,29.38,26,29.37
+Curd,Special Curd 500gm- Tonned Milk,2021,1,Jan,1,1,0,0,0,1,620.0,18180.0,29.3,5,29.32
+Curd,Special Curd 500gm- Tonned Milk,2021,2,Feb,1,0,0,0,0,0,3796.0,111628.0,29.44,28,29.41
+Curd,Special Curd 500gm- Tonned Milk,2021,3,Mar,1,0,1,0,0,0,5344.0,157500.0,29.45,27,29.47
+Curd,Special Curd 500gm- Tonned Milk,2021,3,Mar,1,1,1,0,0,0,762.0,22380.0,29.38,4,29.37
+Curd,Special Curd 500gm- Tonned Milk,2021,4,Apr,2,0,1,1,0,0,2460.0,72360.0,29.44,18,29.41
+Curd,Special Curd 500gm- Tonned Milk,2021,4,Apr,2,1,1,1,0,0,2205.0,65110.0,29.52,12,29.53
+Curd,Special Curd 500gm- Tonned Milk,2021,5,May,2,0,1,1,0,0,2465.0,72154.0,29.17,28,29.27
+Curd,Special Curd 500gm- Tonned Milk,2021,6,Jun,2,0,0,1,1,0,1099.0,32182.0,29.32,20,29.28
+Curd,Special Curd 500gm- Tonned Milk,2021,7,Jul,3,0,0,0,1,0,295.0,8500.0,28.69,7,28.81
+Curd,Special Curd 500gm- Tonned Milk,2021,8,Aug,3,0,0,0,1,0,1082.0,31100.0,29.1,16,28.74
+Curd,Special Curd 500gm- Tonned Milk,2021,8,Aug,3,1,0,0,1,0,341.0,9860.0,29.2,4,28.91
+Curd,Special Curd 500gm- Tonned Milk,2021,9,Sep,3,0,0,0,1,0,869.0,24892.0,29.05,10,28.64
+Curd,Special Curd 500gm- Tonned Milk,2021,9,Sep,3,1,0,0,1,0,270.0,7670.0,28.81,6,28.41
+Curd,Special Curd 500gm- Tonned Milk,2021,10,Oct,4,0,0,0,0,0,1234.0,35682.0,29.1,18,28.92
+Curd,Special Curd 500gm- Tonned Milk,2021,11,Nov,4,0,0,0,0,1,1250.0,36270.0,29.05,14,29.02
+Curd,Special Curd 500gm- Tonned Milk,2021,12,Dec,4,0,0,0,0,1,545.0,15720.0,29.01,11,28.84
+Curd,Special Curd 500gm- Tonned Milk,2021,12,Dec,4,1,0,0,0,1,768.0,22344.0,29.22,10,29.09
+Curd,Special Curd 500gm- Tonned Milk,2022,1,Jan,1,0,0,0,0,1,2260.0,66140.0,29.33,26,29.27
+Curd,Special Curd 500gm- Tonned Milk,2022,1,Jan,1,1,0,0,0,1,660.0,18900.0,28.78,5,28.64
+Curd,Special Curd 500gm- Tonned Milk,2022,2,Feb,1,0,0,0,0,0,3185.0,93730.0,29.44,28,29.43
+Curd,Special Curd 500gm- Tonned Milk,2022,3,Mar,1,0,1,0,0,0,4068.0,119630.0,29.42,27,29.41
+Curd,Special Curd 500gm- Tonned Milk,2022,3,Mar,1,1,1,0,0,0,715.0,21030.0,29.38,4,29.41
+Curd,Special Curd 500gm- Tonned Milk,2022,4,Apr,2,0,1,1,0,0,2110.0,62140.0,29.46,18,29.45
+Curd,Special Curd 500gm- Tonned Milk,2022,4,Apr,2,1,1,1,0,0,1375.0,40390.0,29.39,12,29.37
+Curd,Special Curd 500gm- Tonned Milk,2022,5,May,2,0,1,1,0,0,2630.0,76800.0,29.3,28,29.2
+Curd,Special Curd 500gm- Tonned Milk,2022,6,Jun,2,0,0,1,1,0,1710.0,50100.0,29.39,27,29.3
+Curd,Special Curd 500gm- Tonned Milk,2022,11,Nov,4,0,0,0,0,1,310.0,9528.78,30.79,13,30.74
+Curd,Special Curd 500gm- Tonned Milk,2022,12,Dec,4,0,0,0,0,1,100.0,3000.0,30.0,3,30.0
+Curd,Special Curd 500gm- Tonned Milk,2022,12,Dec,4,1,0,0,0,1,120.0,3714.4,31.11,3,30.95
+Curd,Special Curd 500gm- Tonned Milk,2023,1,Jan,1,0,0,0,0,1,370.0,11157.18,30.57,10,30.15
+Curd,Special Curd 500gm- Tonned Milk,2023,1,Jan,1,1,0,0,0,1,35.0,1078.61,30.82,1,30.82
+Curd,Special Curd 500gm- Tonned Milk,2023,2,Feb,1,0,0,0,0,0,430.0,13128.76,30.54,10,30.53
+Curd,Special Curd 500gm- Tonned Milk,2023,3,Mar,1,0,1,0,0,0,550.0,16585.82,30.64,9,30.16
+Curd,Special Curd 500gm- Tonned Milk,2023,3,Mar,1,1,1,0,0,0,50.0,1500.01,30.0,1,30.0
+Curd,Special Curd 500gm- Tonned Milk,2023,4,Apr,2,0,1,1,0,0,190.0,5728.61,31.43,2,30.15
+Curd,Special Curd 500gm- Tonned Milk,2023,4,Apr,2,1,1,1,0,0,360.0,11000.15,31.05,6,30.56
+Curd,Special Curd 500gm- Tonned Milk,2023,5,May,2,0,1,1,0,0,809.0,24613.2,30.85,12,30.42
+Curd,Special Curd 500gm- Tonned Milk,2023,6,Jun,2,0,0,1,1,0,585.0,17735.91,30.35,7,30.32
+Curd,Special Curd 500gm- Tonned Milk,2023,7,Jul,3,0,0,0,1,0,470.0,14328.8,30.77,8,30.49
+Curd,Special Curd 500gm- Tonned Milk,2023,8,Aug,3,0,0,0,1,0,670.0,20214.36,30.31,10,30.17
+Curd,Special Curd 500gm- Tonned Milk,2023,8,Aug,3,1,0,0,1,0,110.0,3299.99,30.0,2,30.0
+Curd,Special Curd 500gm- Tonned Milk,2023,9,Sep,3,0,0,0,1,0,560.0,16857.25,30.07,12,30.1
+Curd,Special Curd 500gm- Tonned Milk,2023,9,Sep,3,1,0,0,1,0,230.0,7014.41,30.25,5,30.5
+Curd,Special Curd 500gm- Tonned Milk,2023,10,Oct,4,0,0,0,0,0,1037.0,31596.18,30.71,15,30.47
+Curd,Special Curd 500gm- Tonned Milk,2023,11,Nov,4,0,0,0,0,1,691.0,21076.0,31.14,11,30.5
+Curd,Special Curd 500gm- Tonned Milk,2023,12,Dec,4,0,0,0,0,1,255.0,7692.91,30.48,6,30.17
+Curd,Special Curd 500gm- Tonned Milk,2023,12,Dec,4,1,0,0,0,1,50.0,1528.59,31.43,2,30.57
+Curd,Special Curd 500gm- Tonned Milk,2024,1,Jan,1,0,0,0,0,1,400.0,12028.58,30.24,6,30.07
+Curd,Special Curd 500gm- Tonned Milk,2024,1,Jan,1,1,0,0,0,1,80.0,2400.0,30.0,2,30.0
+Curd,Special Curd 500gm- Tonned Milk,2024,2,Feb,1,0,0,0,0,0,290.0,8757.19,30.72,8,30.2
+Curd,Special Curd 500gm- Tonned Milk,2024,3,Mar,1,0,1,0,0,0,230.0,7014.36,31.13,8,30.5
+Curd,Special Curd 500gm- Tonned Milk,2024,4,Apr,2,0,1,1,0,0,170.0,5100.01,30.0,5,30.0
+Curd,Special Curd 500gm- Tonned Milk,2024,4,Apr,2,1,1,1,0,0,120.0,3600.02,30.0,4,30.0
+Curd,Special Curd 500gm- Tonned Milk,2024,5,May,2,0,1,1,0,0,150.0,4528.6,30.57,5,30.19
+Curd,Special Curd 500gm- Tonned Milk,2024,6,Jun,2,0,0,1,1,0,160.0,4800.0,30.0,4,30.0
+Curd,Special Curd 500gm- Tonned Milk,2024,7,Jul,3,0,0,0,1,0,2710.0,84874.81,30.24,6,31.32
+Curd,Special Curd 500gm- Tonned Milk,2024,8,Aug,3,0,0,0,1,0,37813.0,1179679.08,31.2,24,31.2
+Curd,Special Curd 500gm- Tonned Milk,2024,8,Aug,3,1,0,0,1,0,9265.0,287343.72,31.03,7,31.01
+Curd,Special Curd 500gm- Tonned Milk,2024,9,Sep,3,0,0,0,1,0,27374.0,851129.42,31.1,20,31.09
+Curd,Special Curd 500gm- Tonned Milk,2024,9,Sep,3,1,0,0,1,0,13856.0,429208.97,30.98,10,30.98
+Curd,Special Curd 500gm- Tonned Milk,2024,10,Oct,4,0,0,0,0,0,37190.0,1159709.64,31.18,31,31.18
+Curd,Special Curd 500gm- Tonned Milk,2024,11,Nov,4,0,0,0,0,1,42219.0,1314437.03,31.14,30,31.13
+Curd,Special Curd 500gm- Tonned Milk,2024,12,Dec,4,0,0,0,0,1,22776.0,706931.08,31.04,19,31.04
+Curd,Special Curd 500gm- Tonned Milk,2024,12,Dec,4,1,0,0,0,1,18991.0,588849.18,31.01,12,31.01
+Curd,Special Curd 500gm- Tonned Milk,2025,1,Jan,1,0,0,0,0,1,34247.0,1062216.1,31.02,26,31.02
+Curd,Special Curd 500gm- Tonned Milk,2025,1,Jan,1,1,0,0,0,1,7517.0,232750.54,30.97,5,30.96
+Curd,Special Curd 500gm- Tonned Milk,2025,2,Feb,1,0,0,0,0,0,45384.0,1409563.4,31.06,28,31.06
+Curd,Special Curd 500gm- Tonned Milk,2025,3,Mar,1,0,1,0,0,0,58453.0,1815623.86,31.07,27,31.06
+Curd,Special Curd 500gm- Tonned Milk,2025,3,Mar,1,1,1,0,0,0,11424.0,354199.05,31.02,4,31.0
+Curd,Special Curd 500gm- Tonned Milk,2025,4,Apr,2,0,1,1,0,0,37150.0,1153377.4,31.06,18,31.05
+Curd,Special Curd 500gm- Tonned Milk,2025,4,Apr,2,1,1,1,0,0,24464.0,760984.19,31.08,12,31.11
+Curd,Special Curd 500gm- Tonned Milk,2025,5,May,2,0,1,1,0,0,53209.0,1649787.38,31.01,31,31.01
+Curd,Special Curd 500gm- Tonned Milk,2025,6,Jun,2,0,0,1,1,0,40604.0,1256295.3,30.94,30,30.94
+Curd,Special Curd 500gm- Tonned Milk,2025,7,Jul,3,0,0,0,1,0,42849.0,1277250.11,29.82,31,29.81
+Curd,Special Curd 500gm- Tonned Milk,2025,8,Aug,3,0,0,0,1,0,36703.0,1101622.4,29.99,24,30.01
+Curd,Special Curd 500gm- Tonned Milk,2025,8,Aug,3,1,0,0,1,0,12376.0,385567.55,31.15,7,31.15
+Curd,Special Curd 500gm- Tonned Milk,2025,9,Sep,3,0,0,0,1,0,36105.0,1121181.26,31.06,20,31.05
+Curd,Special Curd 500gm- Tonned Milk,2025,9,Sep,3,1,0,0,1,0,20363.0,633005.18,31.09,10,31.09
+Curd,Special Curd 500gm- Tonned Milk,2025,10,Oct,4,0,0,0,0,0,59120.0,1827086.93,30.9,31,30.9
+Curd,Special Curd 500gm- Tonned Milk,2025,11,Nov,4,0,0,0,0,1,60796.0,1880166.25,30.92,30,30.93
+Curd,Special Curd 500gm- Tonned Milk,2025,12,Dec,4,0,0,0,0,1,38310.0,1135809.96,29.64,19,29.65
+Curd,Special Curd 500gm- Tonned Milk,2025,12,Dec,4,1,0,0,0,1,26711.0,790527.48,29.59,12,29.6
+Paneer,Paneer 1kg,2021,4,Apr,2,0,1,1,0,0,3.0,1073.1,357.7,2,357.7
+Paneer,Paneer 1kg,2021,4,Apr,2,1,1,1,0,0,13.0,4911.59,370.78,4,377.81
+Paneer,Paneer 1kg,2021,5,May,2,0,1,1,0,0,8.0,2861.59,357.7,4,357.7
+Paneer,Paneer 1kg,2021,6,Jun,2,0,0,1,1,0,11.0,3934.69,357.7,3,357.7
+Paneer,Paneer 1kg,2021,7,Jul,3,0,0,0,1,0,4.0,1430.78,357.7,2,357.7
+Paneer,Paneer 1kg,2021,8,Aug,3,0,0,0,1,0,4.0,1430.81,357.7,2,357.7
+Paneer,Paneer 1kg,2021,9,Sep,3,0,0,0,1,0,10.0,3577.01,357.7,4,357.7
+Paneer,Paneer 1kg,2021,10,Oct,4,0,0,0,0,0,22.0,7903.29,358.64,6,359.24
+Paneer,Paneer 1kg,2021,11,Nov,4,0,0,0,0,1,37.0,14292.19,367.36,12,386.28
+Paneer,Paneer 1kg,2021,12,Dec,4,0,0,0,0,1,65.0,23773.48,362.93,10,365.75
+Paneer,Paneer 1kg,2021,12,Dec,4,1,0,0,0,1,30.0,11463.18,375.13,5,382.11
+Paneer,Paneer 1kg,2022,1,Jan,1,0,0,0,0,1,107.0,37173.73,356.16,12,347.42
+Paneer,Paneer 1kg,2022,1,Jan,1,1,0,0,0,1,5.0,1788.49,357.7,2,357.7
+Paneer,Paneer 1kg,2022,2,Feb,1,0,0,0,0,0,125.0,42652.23,347.75,7,341.22
+Paneer,Paneer 1kg,2022,3,Mar,1,0,1,0,0,0,120.0,44530.54,368.3,10,371.09
+Paneer,Paneer 1kg,2022,3,Mar,1,1,1,0,0,0,33.0,12588.6,381.47,1,381.47
+Paneer,Paneer 1kg,2022,4,Apr,2,0,1,1,0,0,71.0,26181.22,364.24,8,368.75
+Paneer,Paneer 1kg,2022,4,Apr,2,1,1,1,0,0,17.0,6080.92,357.7,4,357.7
+Paneer,Paneer 1kg,2022,5,May,2,0,1,1,0,0,104.0,38882.91,362.98,16,373.87
+Paneer,Paneer 1kg,2022,6,Jun,2,0,0,1,1,0,131.0,46904.02,359.0,15,358.05
+Paneer,Paneer 1kg,2022,7,Jul,3,0,0,0,1,0,86.0,31285.24,361.73,13,363.78
+Paneer,Paneer 1kg,2022,8,Aug,3,0,0,0,1,0,150.0,54701.01,363.78,15,364.67
+Paneer,Paneer 1kg,2022,8,Aug,3,1,0,0,1,0,35.0,12519.52,357.7,3,357.7
+Paneer,Paneer 1kg,2022,9,Sep,3,0,0,0,1,0,69.0,25308.95,364.48,9,366.8
+Paneer,Paneer 1kg,2022,9,Sep,3,1,0,0,1,0,43.0,15904.14,367.21,5,369.86
+Paneer,Paneer 1kg,2022,10,Oct,4,0,0,0,0,0,102.0,37333.52,364.44,15,366.01
+Paneer,Paneer 1kg,2022,11,Nov,4,0,0,0,0,1,218.0,79081.17,363.17,19,362.76
+Paneer,Paneer 1kg,2022,12,Dec,4,0,0,0,0,1,68.0,28664.41,419.36,9,421.54
+Paneer,Paneer 1kg,2022,12,Dec,4,1,0,0,0,1,31.0,13233.68,416.84,8,426.89
+Paneer,Paneer 1kg,2023,1,Jan,1,0,0,0,0,1,132.0,54815.24,415.89,13,415.27
+Paneer,Paneer 1kg,2023,1,Jan,1,1,0,0,0,1,15.0,6678.51,420.91,3,445.23
+Paneer,Paneer 1kg,2023,2,Feb,1,0,0,0,0,0,101.0,42754.75,419.25,12,423.31
+Paneer,Paneer 1kg,2023,3,Mar,1,0,1,0,0,0,60.0,26180.31,422.64,10,436.34
+Paneer,Paneer 1kg,2023,3,Mar,1,1,1,0,0,0,33.0,13388.11,405.7,2,405.7
+Paneer,Paneer 1kg,2023,4,Apr,2,0,1,1,0,0,37.0,15010.91,405.7,9,405.7
+Paneer,Paneer 1kg,2023,4,Apr,2,1,1,1,0,0,16.0,6491.21,405.7,5,405.7
+Paneer,Paneer 1kg,2023,5,May,2,0,1,1,0,0,128.0,52983.38,414.35,15,413.93
+Paneer,Paneer 1kg,2023,6,Jun,2,0,0,1,1,0,98.0,42207.48,423.56,14,430.69
+Paneer,Paneer 1kg,2023,7,Jul,3,0,0,0,1,0,108.0,45594.66,418.97,13,422.17
+Paneer,Paneer 1kg,2023,8,Aug,3,0,0,0,1,0,48.0,20659.64,417.56,10,430.41
+Paneer,Paneer 1kg,2023,8,Aug,3,1,0,0,1,0,32.0,12982.41,405.7,2,405.7
+Paneer,Paneer 1kg,2023,9,Sep,3,0,0,0,1,0,110.0,46583.92,421.14,8,423.49
+Paneer,Paneer 1kg,2023,9,Sep,3,1,0,0,1,0,27.0,11546.92,420.52,4,427.66
+Paneer,Paneer 1kg,2023,10,Oct,4,0,0,0,0,0,81.0,34522.13,415.46,11,426.2
+Paneer,Paneer 1kg,2023,11,Nov,4,0,0,0,0,1,126.0,53786.76,420.5,15,426.88
+Paneer,Paneer 1kg,2023,12,Dec,4,0,0,0,0,1,48.0,20600.31,418.88,9,429.17
+Paneer,Paneer 1kg,2023,12,Dec,4,1,0,0,0,1,79.0,32643.32,412.29,9,413.21
+Paneer,Paneer 1kg,2024,1,Jan,1,0,0,0,0,1,128.0,54352.88,418.24,16,424.63
+Paneer,Paneer 1kg,2024,1,Jan,1,1,0,0,0,1,9.0,3651.31,405.7,2,405.7
+Paneer,Paneer 1kg,2024,2,Feb,1,0,0,0,0,0,203.0,85381.49,421.58,21,420.6
+Paneer,Paneer 1kg,2024,3,Mar,1,0,1,0,0,0,99.0,42327.34,416.1,17,427.55
+Paneer,Paneer 1kg,2024,3,Mar,1,1,1,0,0,0,4.0,1622.8,405.7,3,405.7
+Paneer,Paneer 1kg,2024,4,Apr,2,0,1,1,0,0,106.0,43106.62,407.39,13,406.67
+Paneer,Paneer 1kg,2024,4,Apr,2,1,1,1,0,0,63.0,25559.12,405.7,8,405.7
+Paneer,Paneer 1kg,2024,5,May,2,0,1,1,0,0,135.0,55217.49,408.26,23,409.02
+Paneer,Paneer 1kg,2024,6,Jun,2,0,0,1,1,0,165.0,70498.56,419.38,21,427.26
+Paneer,Paneer 1kg,2024,7,Jul,3,0,0,0,1,0,161.0,68914.12,414.0,19,428.04
+Paneer,Paneer 1kg,2024,8,Aug,3,0,0,0,1,0,159.0,66891.15,417.39,11,420.7
+Paneer,Paneer 1kg,2024,8,Aug,3,1,0,0,1,0,26.0,11437.7,422.17,3,439.91
+Paneer,Paneer 1kg,2024,9,Sep,3,0,0,0,1,0,54.0,23983.32,425.47,6,444.14
+Paneer,Paneer 1kg,2024,9,Sep,3,1,0,0,1,0,38.0,15416.61,405.7,8,405.7
+Paneer,Paneer 1kg,2024,10,Oct,4,0,0,0,0,0,186.0,79018.24,420.52,12,424.83
+Paneer,Paneer 1kg,2024,11,Nov,4,0,0,0,0,1,134.0,57625.34,422.64,14,430.04
+Paneer,Paneer 1kg,2024,12,Dec,4,0,0,0,0,1,120.0,50000.81,418.93,8,416.67
+Paneer,Paneer 1kg,2024,12,Dec,4,1,0,0,0,1,28.0,12001.35,422.56,4,428.62
+Paneer,Paneer 1kg,2025,1,Jan,1,0,0,0,0,1,121.0,52554.14,431.87,10,434.33
+Paneer,Paneer 1kg,2025,1,Jan,1,1,0,0,0,1,14.0,5755.98,408.52,3,411.14
+Paneer,Paneer 1kg,2025,2,Feb,1,0,0,0,0,0,178.0,73876.68,412.05,17,415.04
+Paneer,Paneer 1kg,2025,3,Mar,1,0,1,0,0,0,132.0,55180.13,413.86,16,418.03
+Paneer,Paneer 1kg,2025,3,Mar,1,1,1,0,0,0,24.0,9757.12,406.38,3,406.55
+Paneer,Paneer 1kg,2025,4,Apr,2,0,1,1,0,0,119.0,48302.72,406.32,13,405.91
+Paneer,Paneer 1kg,2025,4,Apr,2,1,1,1,0,0,86.0,34922.74,405.87,11,406.08
+Paneer,Paneer 1kg,2025,5,May,2,0,1,1,0,0,300.0,122445.32,408.53,24,408.15
+Paneer,Paneer 1kg,2025,6,Jun,2,0,0,1,1,0,196.0,81653.68,412.16,20,416.6
+Paneer,Paneer 1kg,2025,7,Jul,3,0,0,0,1,0,132.0,57203.86,416.32,21,433.36
+Paneer,Paneer 1kg,2025,8,Aug,3,0,0,0,1,0,168.0,69461.4,412.29,17,413.46
+Paneer,Paneer 1kg,2025,8,Aug,3,1,0,0,1,0,89.0,36147.93,406.38,5,406.16
+Paneer,Paneer 1kg,2025,9,Sep,3,0,0,0,1,0,124.0,50974.18,411.71,12,411.08
+Paneer,Paneer 1kg,2025,9,Sep,3,1,0,0,1,0,42.0,17200.55,408.67,5,409.54
+Paneer,Paneer 1kg,2025,10,Oct,4,0,0,0,0,0,221.0,87969.63,398.88,19,398.05
+Paneer,Paneer 1kg,2025,11,Nov,4,0,0,0,0,1,265.0,105356.02,398.31,22,397.57
+Paneer,Paneer 1kg,2025,12,Dec,4,0,0,0,0,1,197.0,77597.11,390.77,14,393.89
+Paneer,Paneer 1kg,2025,12,Dec,4,1,0,0,0,1,136.0,53022.58,389.39,9,389.87
+Paneer,Paneer 200gm - Sliced,2021,4,Apr,2,0,1,1,0,0,1643.0,127139.77,77.39,17,77.38
+Paneer,Paneer 200gm - Sliced,2021,4,Apr,2,1,1,1,0,0,1011.0,78225.92,77.36,11,77.37
+Paneer,Paneer 200gm - Sliced,2021,5,May,2,0,1,1,0,0,2444.0,189409.07,77.51,31,77.5
+Paneer,Paneer 200gm - Sliced,2021,6,Jun,2,0,0,1,1,0,2968.0,229727.54,77.4,29,77.4
+Paneer,Paneer 200gm - Sliced,2021,7,Jul,3,0,0,0,1,0,2809.0,217486.82,77.46,31,77.42
+Paneer,Paneer 200gm - Sliced,2021,8,Aug,3,0,0,0,1,0,2573.0,199179.19,77.42,23,77.41
+Paneer,Paneer 200gm - Sliced,2021,8,Aug,3,1,0,0,1,0,525.0,40614.42,77.37,7,77.36
+Paneer,Paneer 200gm - Sliced,2021,9,Sep,3,0,0,0,1,0,1549.0,119915.52,77.42,16,77.41
+Paneer,Paneer 200gm - Sliced,2021,9,Sep,3,1,0,0,1,0,1005.0,77780.69,77.38,10,77.39
+Paneer,Paneer 200gm - Sliced,2021,10,Oct,4,0,0,0,0,0,2586.0,200076.29,77.52,28,77.37
+Paneer,Paneer 200gm - Sliced,2021,11,Nov,4,0,0,0,0,1,2760.0,213532.27,77.36,30,77.37
+Paneer,Paneer 200gm - Sliced,2021,12,Dec,4,0,0,0,0,1,2138.0,165413.31,77.36,19,77.37
+Paneer,Paneer 200gm - Sliced,2021,12,Dec,4,1,0,0,0,1,1331.0,102936.25,77.36,12,77.34
+Paneer,Paneer 200gm - Sliced,2022,1,Jan,1,0,0,0,0,1,2771.0,203988.8,74.32,25,73.62
+Paneer,Paneer 200gm - Sliced,2022,1,Jan,1,1,0,0,0,1,741.0,54589.79,73.55,5,73.67
+Paneer,Paneer 200gm - Sliced,2022,2,Feb,1,0,0,0,0,0,2552.0,188077.66,74.42,27,73.7
+Paneer,Paneer 200gm - Sliced,2022,3,Mar,1,0,1,0,0,0,1972.0,152585.16,77.36,27,77.38
+Paneer,Paneer 200gm - Sliced,2022,3,Mar,1,1,1,0,0,0,46.0,3555.34,77.29,2,77.29
+Paneer,Paneer 200gm - Sliced,2022,4,Apr,2,0,1,1,0,0,1389.0,107600.8,77.53,17,77.47
+Paneer,Paneer 200gm - Sliced,2022,4,Apr,2,1,1,1,0,0,1163.0,89973.99,77.36,11,77.36
+Paneer,Paneer 200gm - Sliced,2022,5,May,2,0,1,1,0,0,2655.0,205502.22,77.41,31,77.4
+Paneer,Paneer 200gm - Sliced,2022,6,Jun,2,0,0,1,1,0,2686.0,199536.57,74.39,29,74.29
+Paneer,Paneer 200gm - Sliced,2022,7,Jul,3,0,0,0,1,0,2671.0,198109.37,74.18,31,74.17
+Paneer,Paneer 200gm - Sliced,2022,8,Aug,3,0,0,0,1,0,2284.0,169264.99,74.11,23,74.11
+Paneer,Paneer 200gm - Sliced,2022,8,Aug,3,1,0,0,1,0,659.0,48909.69,74.19,7,74.22
+Paneer,Paneer 200gm - Sliced,2022,9,Sep,3,0,0,0,1,0,1439.0,106500.16,74.0,19,74.01
+Paneer,Paneer 200gm - Sliced,2022,9,Sep,3,1,0,0,1,0,635.0,46990.08,74.0,9,74.0
+Paneer,Paneer 200gm - Sliced,2022,10,Oct,4,0,0,0,0,0,3118.0,231201.8,74.12,31,74.15
+Paneer,Paneer 200gm - Sliced,2022,11,Nov,4,0,0,0,0,1,2709.0,200841.05,74.11,28,74.14
+Paneer,Paneer 200gm - Sliced,2022,12,Dec,4,0,0,0,0,1,1404.0,112419.21,80.03,17,80.07
+Paneer,Paneer 200gm - Sliced,2022,12,Dec,4,1,0,0,0,1,1265.0,101485.14,80.16,12,80.23
+Paneer,Paneer 200gm - Sliced,2023,1,Jan,1,0,0,0,0,1,2211.0,177311.75,80.15,25,80.2
+Paneer,Paneer 200gm - Sliced,2023,1,Jan,1,1,0,0,0,1,598.0,48034.06,80.49,5,80.32
+Paneer,Paneer 200gm - Sliced,2023,2,Feb,1,0,0,0,0,0,2322.0,186286.9,80.17,28,80.23
+Paneer,Paneer 200gm - Sliced,2023,3,Mar,1,0,1,0,0,0,2199.0,176528.39,80.31,27,80.28
+Paneer,Paneer 200gm - Sliced,2023,3,Mar,1,1,1,0,0,0,221.0,17774.97,80.34,2,80.43
+Paneer,Paneer 200gm - Sliced,2023,4,Apr,2,0,1,1,0,0,1516.0,121588.08,80.27,17,80.2
+Paneer,Paneer 200gm - Sliced,2023,4,Apr,2,1,1,1,0,0,822.0,65855.17,80.11,12,80.12
+Paneer,Paneer 200gm - Sliced,2023,5,May,2,0,1,1,0,0,2899.0,232484.71,80.19,30,80.19
+Paneer,Paneer 200gm - Sliced,2023,6,Jun,2,0,0,1,1,0,2393.0,192023.8,80.24,29,80.24
+Paneer,Paneer 200gm - Sliced,2023,7,Jul,3,0,0,0,1,0,2765.0,221770.46,80.16,30,80.21
+Paneer,Paneer 200gm - Sliced,2023,8,Aug,3,0,0,0,1,0,2258.0,181128.66,80.19,23,80.22
+Paneer,Paneer 200gm - Sliced,2023,8,Aug,3,1,0,0,1,0,407.0,32716.09,80.38,6,80.38
+Paneer,Paneer 200gm - Sliced,2023,9,Sep,3,0,0,0,1,0,1702.0,136590.22,80.32,19,80.25
+Paneer,Paneer 200gm - Sliced,2023,9,Sep,3,1,0,0,1,0,975.0,78093.62,80.16,10,80.1
+Paneer,Paneer 200gm - Sliced,2023,10,Oct,4,0,0,0,0,0,3591.0,287911.37,80.25,30,80.18
+Paneer,Paneer 200gm - Sliced,2023,11,Nov,4,0,0,0,0,1,3404.0,273048.81,80.18,29,80.21
+Paneer,Paneer 200gm - Sliced,2023,12,Dec,4,0,0,0,0,1,2289.0,183741.66,80.2,19,80.27
+Paneer,Paneer 200gm - Sliced,2023,12,Dec,4,1,0,0,0,1,1541.0,123664.2,80.27,12,80.25
+Paneer,Paneer 200gm - Sliced,2024,1,Jan,1,0,0,0,0,1,2684.0,215506.33,80.24,26,80.29
+Paneer,Paneer 200gm - Sliced,2024,1,Jan,1,1,0,0,0,1,580.0,46903.61,80.75,5,80.87
+Paneer,Paneer 200gm - Sliced,2024,2,Feb,1,0,0,0,0,0,2894.0,232541.8,80.32,29,80.35
+Paneer,Paneer 200gm - Sliced,2024,3,Mar,1,0,1,0,0,0,2949.0,237325.72,81.01,26,80.48
+Paneer,Paneer 200gm - Sliced,2024,3,Mar,1,1,1,0,0,0,284.0,22724.12,80.01,3,80.01
+Paneer,Paneer 200gm - Sliced,2024,4,Apr,2,0,1,1,0,0,1969.0,158040.71,80.21,18,80.26
+Paneer,Paneer 200gm - Sliced,2024,4,Apr,2,1,1,1,0,0,1168.0,93585.12,80.08,12,80.12
+Paneer,Paneer 200gm - Sliced,2024,5,May,2,0,1,1,0,0,3465.0,278429.87,80.4,31,80.35
+Paneer,Paneer 200gm - Sliced,2024,6,Jun,2,0,0,1,1,0,3654.0,292800.93,80.11,30,80.13
+Paneer,Paneer 200gm - Sliced,2024,7,Jul,3,0,0,0,1,0,4060.0,325368.99,80.21,30,80.14
+Paneer,Paneer 200gm - Sliced,2024,8,Aug,3,0,0,0,1,0,3539.0,283568.13,80.12,24,80.13
+Paneer,Paneer 200gm - Sliced,2024,8,Aug,3,1,0,0,1,0,962.0,77128.97,80.18,7,80.18
+Paneer,Paneer 200gm - Sliced,2024,9,Sep,3,0,0,0,1,0,2139.0,171533.77,80.16,19,80.19
+Paneer,Paneer 200gm - Sliced,2024,9,Sep,3,1,0,0,1,0,1244.0,99645.49,80.09,10,80.1
+Paneer,Paneer 200gm - Sliced,2024,10,Oct,4,0,0,0,0,0,4434.0,343599.64,77.62,30,77.49
+Paneer,Paneer 200gm - Sliced,2024,11,Nov,4,0,0,0,0,1,4109.0,308575.39,75.14,30,75.1
+Paneer,Paneer 200gm - Sliced,2024,12,Dec,4,0,0,0,0,1,2885.0,216904.18,75.18,19,75.18
+Paneer,Paneer 200gm - Sliced,2024,12,Dec,4,1,0,0,0,1,2005.0,151008.05,75.73,12,75.32
+Paneer,Paneer 200gm - Sliced,2025,1,Jan,1,0,0,0,0,1,3371.0,270636.05,80.26,25,80.28
+Paneer,Paneer 200gm - Sliced,2025,1,Jan,1,1,0,0,0,1,661.0,53038.61,80.22,5,80.24
+Paneer,Paneer 200gm - Sliced,2025,2,Feb,1,0,0,0,0,0,3744.0,300190.91,80.18,28,80.18
+Paneer,Paneer 200gm - Sliced,2025,3,Mar,1,0,1,0,0,0,3517.0,282359.15,80.25,27,80.28
+Paneer,Paneer 200gm - Sliced,2025,3,Mar,1,1,1,0,0,0,422.0,33776.01,80.04,3,80.04
+Paneer,Paneer 200gm - Sliced,2025,4,Apr,2,0,1,1,0,0,2358.0,188846.82,80.09,18,80.09
+Paneer,Paneer 200gm - Sliced,2025,4,Apr,2,1,1,1,0,0,1653.0,132584.18,80.14,12,80.21
+Paneer,Paneer 200gm - Sliced,2025,5,May,2,0,1,1,0,0,4058.0,325374.95,80.17,31,80.18
+Paneer,Paneer 200gm - Sliced,2025,6,Jun,2,0,0,1,1,0,4561.0,365712.06,80.17,30,80.18
+Paneer,Paneer 200gm - Sliced,2025,7,Jul,3,0,0,0,1,0,5461.0,437912.81,80.17,31,80.19
+Paneer,Paneer 200gm - Sliced,2025,8,Aug,3,0,0,0,1,0,4013.0,321597.94,80.13,24,80.14
+Paneer,Paneer 200gm - Sliced,2025,8,Aug,3,1,0,0,1,0,1281.0,102813.13,80.27,7,80.26
+Paneer,Paneer 200gm - Sliced,2025,9,Sep,3,0,0,0,1,0,2903.0,226731.71,78.64,17,78.1
+Paneer,Paneer 200gm - Sliced,2025,9,Sep,3,1,0,0,1,0,1367.0,109400.07,80.02,9,80.03
+Paneer,Paneer 200gm - Sliced,2025,10,Oct,4,0,0,0,0,0,6178.0,471656.83,76.35,31,76.34
+Paneer,Paneer 200gm - Sliced,2025,11,Nov,4,0,0,0,0,1,6610.0,504665.65,76.42,30,76.35
+Paneer,Paneer 200gm - Sliced,2025,12,Dec,4,0,0,0,0,1,4793.0,366543.75,76.52,19,76.47
+Paneer,Paneer 200gm - Sliced,2025,12,Dec,4,1,0,0,0,1,2676.0,205000.6,76.63,12,76.61
+Sambaram,Butter Milk 175 Ml - Sambharam,2022,7,Jul,3,0,0,0,1,0,555.0,2104.64,3.79,1,3.79
+Sambaram,Butter Milk 175 Ml - Sambharam,2022,8,Aug,3,0,0,0,1,0,3065.0,11642.31,3.8,10,3.8
+Sambaram,Butter Milk 175 Ml - Sambharam,2022,9,Sep,3,0,0,0,1,0,20695.0,76428.22,3.71,12,3.69
+Sambaram,Butter Milk 175 Ml - Sambharam,2022,10,Oct,4,0,0,0,0,0,51930.0,192489.56,3.71,31,3.71
+Sambaram,Butter Milk 175 Ml - Sambharam,2022,11,Nov,4,0,0,0,0,1,62593.0,231839.03,3.71,30,3.7
+Sambaram,Butter Milk 175 Ml - Sambharam,2022,12,Dec,4,0,0,0,0,1,4395.0,16573.54,3.74,3,3.77
+Sambaram,Butter Milk 180ml - Sambaram,2021,4,Apr,2,0,1,1,0,0,111545.0,418311.5,3.76,18,3.75
+Sambaram,Butter Milk 180ml - Sambaram,2021,4,Apr,2,1,1,1,0,0,121510.0,454535.0,3.75,12,3.74
+Sambaram,Butter Milk 180ml - Sambaram,2021,5,May,2,0,1,1,0,0,50839.0,192904.1,3.84,29,3.79
+Sambaram,Butter Milk 180ml - Sambaram,2021,6,Jun,2,0,0,1,1,0,9205.0,35529.5,3.88,28,3.86
+Sambaram,Butter Milk 180ml - Sambaram,2021,7,Jul,3,0,0,0,1,0,5220.0,20250.0,3.87,23,3.88
+Sambaram,Butter Milk 180ml - Sambaram,2021,9,Sep,3,0,0,0,1,0,9140.0,33890.0,3.75,10,3.71
+Sambaram,Butter Milk 180ml - Sambaram,2021,10,Oct,4,0,0,0,0,0,8625.0,32613.5,3.81,21,3.78
+Sambaram,Butter Milk 180ml - Sambaram,2021,11,Nov,4,0,0,0,0,1,11935.0,45462.5,3.82,30,3.81
+Sambaram,Butter Milk 180ml - Sambaram,2021,12,Dec,4,0,0,0,0,1,30720.0,113934.0,3.74,19,3.71
+Sambaram,Butter Milk 180ml - Sambaram,2021,12,Dec,4,1,0,0,0,1,25455.0,93674.5,3.69,12,3.68
+Sambaram,Butter Milk 180ml - Sambaram,2022,1,Jan,1,0,0,0,0,1,87720.0,322284.0,3.68,26,3.67
+Sambaram,Butter Milk 180ml - Sambaram,2022,1,Jan,1,1,0,0,0,1,13880.0,50704.0,3.65,5,3.65
+Sambaram,Butter Milk 180ml - Sambaram,2022,2,Feb,1,0,0,0,0,0,159760.0,590270.0,3.69,28,3.69
+Sambaram,Butter Milk 180ml - Sambaram,2022,3,Mar,1,0,1,0,0,0,311904.0,1156619.6,3.71,27,3.71
+Sambaram,Butter Milk 180ml - Sambaram,2022,3,Mar,1,1,1,0,0,0,54520.0,201920.0,3.7,4,3.7
+Sambaram,Butter Milk 180ml - Sambaram,2022,4,Apr,2,0,1,1,0,0,178060.0,660858.0,3.71,18,3.71
+Sambaram,Butter Milk 180ml - Sambaram,2022,4,Apr,2,1,1,1,0,0,97433.0,361398.7,3.73,12,3.71
+Sambaram,Butter Milk 180ml - Sambaram,2022,5,May,2,0,1,1,0,0,78294.0,291742.6,3.76,29,3.73
+Sambaram,Butter Milk 180ml - Sambaram,2022,6,Jun,2,0,0,1,1,0,38450.0,144659.0,3.78,19,3.76
+Sambaram,Butter Milk 200 Ml,2022,10,Oct,4,0,0,0,0,0,20505.0,138399.85,6.68,30,6.75
+Sambaram,Butter Milk 200 Ml,2022,11,Nov,4,0,0,0,0,1,29918.0,199216.09,6.7,29,6.66
+Sambaram,Butter Milk 200 Ml,2022,12,Dec,4,0,0,0,0,1,24190.0,171607.27,7.12,19,7.09
+Sambaram,Butter Milk 200 Ml,2022,12,Dec,4,1,0,0,0,1,24465.0,172067.92,7.05,12,7.03
+Sambaram,Butter Milk 200 Ml,2023,1,Jan,1,0,0,0,0,1,52373.0,367666.46,7.02,26,7.02
+Sambaram,Butter Milk 200 Ml,2023,1,Jan,1,1,0,0,0,1,12785.0,88570.4,6.93,5,6.93
+Sambaram,Butter Milk 200 Ml,2023,2,Feb,1,0,0,0,0,0,133763.0,930543.9,6.97,28,6.96
+Sambaram,Butter Milk 200 Ml,2023,3,Mar,1,0,1,0,0,0,287060.0,1997865.46,6.96,27,6.96
+Sambaram,Butter Milk 200 Ml,2023,3,Mar,1,1,1,0,0,0,41280.0,287959.24,6.98,4,6.98
+Sambaram,Butter Milk 200 Ml,2023,4,Apr,2,0,1,1,0,0,228505.0,1596506.27,6.99,18,6.99
+Sambaram,Butter Milk 200 Ml,2023,4,Apr,2,1,1,1,0,0,158405.0,1105043.69,6.98,12,6.98
+Sambaram,Butter Milk 200 Ml,2023,5,May,2,0,1,1,0,0,198371.0,1392070.57,7.03,31,7.02
+Sambaram,Butter Milk 200 Ml,2023,6,Jun,2,0,0,1,1,0,52950.0,377065.16,7.24,29,7.12
+Sambaram,Butter Milk 200 Ml,2023,7,Jul,3,0,0,0,1,0,3425.0,25187.03,7.36,21,7.35
+Sambaram,Butter Milk 200 Ml,2023,8,Aug,3,0,0,0,1,0,18395.0,132706.36,7.22,24,7.21
+Sambaram,Butter Milk 200 Ml,2023,8,Aug,3,1,0,0,1,0,1460.0,10263.96,7.23,3,7.03
+Sambaram,Butter Milk 200 Ml,2023,9,Sep,3,0,0,0,1,0,1655.0,12156.78,7.36,10,7.35
+Sambaram,Butter Milk 200 Ml,2023,9,Sep,3,1,0,0,1,0,7235.0,52080.56,7.26,10,7.2
+Sambaram,Butter Milk 200 Ml,2023,10,Oct,4,0,0,0,0,0,28015.0,201423.87,7.21,27,7.19
+Sambaram,Butter Milk 200 Ml,2023,11,Nov,4,0,0,0,0,1,38355.0,274344.16,7.17,30,7.15
+Sambaram,Butter Milk 200 Ml,2023,12,Dec,4,0,0,0,0,1,25980.0,184974.69,7.12,19,7.12
+Sambaram,Butter Milk 200 Ml,2023,12,Dec,4,1,0,0,0,1,16105.0,114523.56,7.13,12,7.11
+Sambaram,Butter Milk 200 Ml,2024,1,Jan,1,0,0,0,0,1,45831.0,324919.76,7.11,26,7.09
+Sambaram,Butter Milk 200 Ml,2024,1,Jan,1,1,0,0,0,1,6995.0,49899.71,7.17,5,7.13
+Sambaram,Butter Milk 200 Ml,2024,2,Feb,1,0,0,0,0,0,171217.0,1192704.78,6.98,29,6.97
+Sambaram,Butter Milk 200 Ml,2024,3,Mar,1,0,1,0,0,0,335872.0,2336870.84,6.96,27,6.96
+Sambaram,Butter Milk 200 Ml,2024,3,Mar,1,1,1,0,0,0,63865.0,443960.28,6.95,4,6.95
+Sambaram,Butter Milk 200 Ml,2024,4,Apr,2,0,1,1,0,0,321534.0,2236762.53,6.96,18,6.96
+Sambaram,Butter Milk 200 Ml,2024,4,Apr,2,1,1,1,0,0,203794.0,1418339.49,6.96,12,6.96
+Sambaram,Butter Milk 200 Ml,2024,5,May,2,0,1,1,0,0,195018.0,1357836.87,7.03,30,6.96
+Sambaram,Butter Milk 200 Ml,2024,6,Jun,2,0,0,1,1,0,40.0,295.98,7.4,2,7.4
+Sambaram,Butter Milk 200 Ml,2024,8,Aug,3,0,0,0,1,0,2690.0,19163.35,7.23,7,7.12
+Sambaram,Butter Milk 200 Ml,2024,8,Aug,3,1,0,0,1,0,2425.0,17413.86,7.25,6,7.18
+Sambaram,Butter Milk 200 Ml,2024,9,Sep,3,0,0,0,1,0,9100.0,64702.87,7.17,10,7.11
+Sambaram,Butter Milk 200 Ml,2024,9,Sep,3,1,0,0,1,0,125.0,902.47,7.27,2,7.22
+Sambaram,Butter Milk 200 Ml,2024,10,Oct,4,0,0,0,0,0,16160.0,114750.89,7.18,27,7.1
+Sambaram,Butter Milk 200 Ml,2024,11,Nov,4,0,0,0,0,1,40926.0,287898.46,7.09,30,7.03
+Sambaram,Butter Milk 200 Ml,2024,12,Dec,4,0,0,0,0,1,15065.0,106607.03,7.16,19,7.08
+Sambaram,Butter Milk 200 Ml,2024,12,Dec,4,1,0,0,0,1,14410.0,102552.2,7.11,12,7.12
+Sambaram,Butter Milk 200 Ml,2025,1,Jan,1,0,0,0,0,1,36640.0,257977.97,7.07,26,7.04
+Sambaram,Butter Milk 200 Ml,2025,1,Jan,1,1,0,0,0,1,6195.0,44186.89,7.13,5,7.13
+Sambaram,Butter Milk 200 Ml,2025,2,Feb,1,0,0,0,0,0,129534.0,904674.83,7.0,28,6.98
+Sambaram,Butter Milk 200 Ml,2025,3,Mar,1,0,1,0,0,0,231680.0,1616188.62,6.98,27,6.98
+Sambaram,Butter Milk 200 Ml,2025,3,Mar,1,1,1,0,0,0,32620.0,228131.6,7.0,4,6.99
+Sambaram,Butter Milk 200 Ml,2025,4,Apr,2,0,1,1,0,0,149696.0,1035783.25,6.92,18,6.92
+Sambaram,Butter Milk 200 Ml,2025,4,Apr,2,1,1,1,0,0,82715.0,571310.48,6.91,12,6.91
+Sambaram,Butter Milk 200 Ml,2025,5,May,2,0,1,1,0,0,115591.0,800927.44,7.02,29,6.93
+Sambaram,Butter Milk 200 Ml,2025,6,Jun,2,0,0,1,1,0,50.0,370.0,7.4,2,7.4
+Sambaram,Butter Milk 200 Ml,2025,7,Jul,3,0,0,0,1,0,180.0,1331.99,7.4,7,7.4
+Sambaram,Butter Milk 200 Ml,2025,9,Sep,3,0,0,0,1,0,14180.0,100521.94,7.12,18,7.09
+Sambaram,Butter Milk 200 Ml,2025,10,Oct,4,0,0,0,0,0,31988.0,225880.13,7.11,31,7.06
+Sambaram,Butter Milk 200 Ml,2025,11,Nov,4,0,0,0,0,1,43356.0,305409.34,7.05,30,7.04
+Sambaram,Butter Milk 200 Ml,2025,12,Dec,4,0,0,0,0,1,28793.0,203334.86,7.07,19,7.06
+Sambaram,Butter Milk 200 Ml,2025,12,Dec,4,1,0,0,0,1,15540.0,109848.36,7.07,12,7.07
+Sambaram,Butter Milk 200 Ml - Nellikka,2022,7,Jul,3,0,0,0,1,0,575.0,3994.95,6.95,1,6.95
+Sambaram,Butter Milk 200 Ml - Nellikka,2022,8,Aug,3,0,0,0,1,0,2905.0,20017.08,6.92,10,6.89
+Sambaram,Butter Milk 200 Ml - Nellikka,2022,8,Aug,3,1,0,0,1,0,255.0,1749.02,6.91,3,6.86
+Sambaram,Butter Milk 200 Ml - Nellikka,2022,9,Sep,3,0,0,0,1,0,9860.0,66278.58,6.76,10,6.72
+Sambaram,Butter Milk 200 Ml - Nellikka,2022,9,Sep,3,1,0,0,1,0,25.0,175.01,7.0,1,7.0
+Sambaram,Butter Milk 250ml-Nellikka,2021,4,Apr,2,0,1,1,0,0,66315.0,445377.0,6.75,18,6.72
+Sambaram,Butter Milk 250ml-Nellikka,2021,4,Apr,2,1,1,1,0,0,61940.0,417548.0,6.74,12,6.74
+Sambaram,Butter Milk 250ml-Nellikka,2021,5,May,2,0,1,1,0,0,33342.0,227775.6,6.89,29,6.83
+Sambaram,Butter Milk 250ml-Nellikka,2021,6,Jun,2,0,0,1,1,0,7055.0,49049.0,6.93,27,6.95
+Sambaram,Butter Milk 250ml-Nellikka,2021,7,Jul,3,0,0,0,1,0,3421.0,23683.0,6.93,12,6.92
+Sambaram,Butter Milk 250ml-Nellikka,2021,8,Aug,3,0,0,0,1,0,10.0,70.0,7.0,1,7.0
+Sambaram,Butter Milk 250ml-Nellikka,2021,9,Sep,3,0,0,0,1,0,6604.0,44968.0,6.82,10,6.81
+Sambaram,Butter Milk 250ml-Nellikka,2021,10,Oct,4,0,0,0,0,0,10320.0,70836.0,6.9,30,6.86
+Sambaram,Butter Milk 250ml-Nellikka,2021,11,Nov,4,0,0,0,0,1,11390.0,78134.0,6.88,30,6.86
+Sambaram,Butter Milk 250ml-Nellikka,2021,12,Dec,4,0,0,0,0,1,20665.0,137167.0,6.7,19,6.64
+Sambaram,Butter Milk 250ml-Nellikka,2021,12,Dec,4,1,0,0,0,1,16506.0,109278.0,6.64,12,6.62
+Sambaram,Butter Milk 250ml-Nellikka,2022,1,Jan,1,0,0,0,0,1,44055.0,291339.0,6.63,26,6.61
+Sambaram,Butter Milk 250ml-Nellikka,2022,1,Jan,1,1,0,0,0,1,7655.0,50225.0,6.61,5,6.56
+Sambaram,Butter Milk 250ml-Nellikka,2022,2,Feb,1,0,0,0,0,0,86725.0,570439.0,6.6,28,6.58
+Sambaram,Butter Milk 250ml-Nellikka,2022,3,Mar,1,0,1,0,0,0,174719.0,1140539.0,6.53,27,6.53
+Sambaram,Butter Milk 250ml-Nellikka,2022,3,Mar,1,1,1,0,0,0,31590.0,206886.0,6.57,4,6.55
+Sambaram,Butter Milk 250ml-Nellikka,2022,4,Apr,2,0,1,1,0,0,101000.0,662516.0,6.57,18,6.56
+Sambaram,Butter Milk 250ml-Nellikka,2022,4,Apr,2,1,1,1,0,0,55640.0,366014.0,6.64,12,6.58
+Sambaram,Butter Milk 250ml-Nellikka,2022,5,May,2,0,1,1,0,0,44770.0,297838.0,6.77,29,6.65
+Sambaram,Butter Milk 250ml-Nellikka,2022,6,Jun,2,0,0,1,1,0,15060.0,100644.0,6.74,15,6.68
+Yogurt,Flavoured Yoghurt 80gm,2021,4,Apr,2,0,1,1,0,0,36.0,608.39,16.9,2,16.9
+Yogurt,Flavoured Yoghurt 80gm,2021,4,Apr,2,1,1,1,0,0,18.0,304.19,16.9,1,16.9
+Yogurt,Flavoured Yoghurt 80gm,2021,5,May,2,0,1,1,0,0,36.0,608.38,16.9,2,16.9
+Yogurt,Flavoured Yoghurt 80gm,2021,6,Jun,2,0,0,1,1,0,36.0,608.38,16.9,2,16.9
+Yogurt,Flavoured Yoghurt 80gm,2021,7,Jul,3,0,0,0,1,0,72.0,1216.76,16.9,4,16.9
+Yogurt,Flavoured Yoghurt 80gm,2021,8,Aug,3,0,0,0,1,0,162.0,2737.72,16.9,7,16.9
+Yogurt,Flavoured Yoghurt 80gm,2021,8,Aug,3,1,0,0,1,0,18.0,304.19,16.9,1,16.9
+Yogurt,Flavoured Yoghurt 80gm,2021,9,Sep,3,0,0,0,1,0,90.0,1520.98,16.9,4,16.9
+Yogurt,Flavoured Yoghurt 80gm,2021,9,Sep,3,1,0,0,1,0,48.0,811.18,16.9,2,16.9
+Yogurt,Flavoured Yoghurt 80gm,2021,10,Oct,4,0,0,0,0,0,162.0,2737.74,16.9,7,16.9
+Yogurt,Flavoured Yoghurt 80gm,2021,11,Nov,4,0,0,0,0,1,126.0,2129.33,16.9,6,16.9
+Yogurt,Flavoured Yoghurt 80gm,2021,12,Dec,4,0,0,0,0,1,72.0,1216.76,16.9,3,16.9
+Yogurt,Flavoured Yoghurt 80gm,2021,12,Dec,4,1,0,0,0,1,54.0,912.57,16.9,3,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,1,Jan,1,0,0,0,0,1,162.0,2737.71,16.9,5,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,1,Jan,1,1,0,0,0,1,36.0,608.41,16.9,1,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,2,Feb,1,0,0,0,0,0,237.0,4005.17,16.9,10,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,3,Mar,1,0,1,0,0,0,131.0,2213.81,16.9,8,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,3,Mar,1,1,1,0,0,0,52.0,878.79,16.9,1,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,4,Apr,2,0,1,1,0,0,18.0,304.19,16.9,1,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,4,Apr,2,1,1,1,0,0,99.0,1673.05,16.9,5,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,5,May,2,0,1,1,0,0,107.0,1808.23,16.9,5,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,6,Jun,2,0,0,1,1,0,144.0,2433.52,16.9,7,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,7,Jul,3,0,0,0,1,0,90.0,1520.95,16.9,4,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,8,Aug,3,0,0,0,1,0,18.0,304.19,16.9,1,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,8,Aug,3,1,0,0,1,0,18.0,304.19,16.9,1,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,9,Sep,3,0,0,0,1,0,18.0,304.19,16.9,1,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,9,Sep,3,1,0,0,1,0,18.0,304.19,16.9,1,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,10,Oct,4,0,0,0,0,0,168.0,2876.3,17.16,8,17.12
+Yogurt,Flavoured Yoghurt 80gm,2022,11,Nov,4,0,0,0,0,1,184.0,3109.5,16.9,7,16.9
+Yogurt,Flavoured Yoghurt 80gm,2022,12,Dec,4,0,0,0,0,1,72.0,1295.98,18.0,3,18.0
+Yogurt,Flavoured Yoghurt 80gm,2022,12,Dec,4,1,0,0,0,1,70.0,1259.98,18.0,4,18.0
+Yogurt,Flavoured Yoghurt 80gm,2023,1,Jan,1,0,0,0,0,1,196.0,3527.96,18.0,6,18.0
+Yogurt,Flavoured Yoghurt 80gm,2023,1,Jan,1,1,0,0,0,1,18.0,323.99,18.0,1,18.0
+Yogurt,Flavoured Yoghurt 80gm,2023,2,Feb,1,0,0,0,0,0,306.0,5507.87,18.0,12,18.0
+Yogurt,Flavoured Yoghurt 80gm,2023,3,Mar,1,0,1,0,0,0,274.0,4931.92,18.0,9,18.0
+Yogurt,Flavoured Yoghurt 80gm,2023,4,Apr,2,0,1,1,0,0,72.0,1295.96,18.0,4,18.0
+Yogurt,Flavoured Yoghurt 80gm,2023,4,Apr,2,1,1,1,0,0,72.0,1295.96,18.0,4,18.0
+Yogurt,Flavoured Yoghurt 80gm,2023,5,May,2,0,1,1,0,0,54.0,971.99,18.0,2,18.0
+Yogurt,Flavoured Yoghurt 80gm,2023,6,Jun,2,0,0,1,1,0,36.0,647.98,18.0,2,18.0
+Yogurt,Flavoured Yoghurt 80gm,2023,7,Jul,3,0,0,0,1,0,153.0,1835.93,12.0,5,12.0
+Yogurt,Flavoured Yoghurt 80gm,2023,8,Aug,3,0,0,0,1,0,243.0,2987.95,12.5,6,12.3
+Yogurt,Flavoured Yoghurt 80gm,2023,8,Aug,3,1,0,0,1,0,36.0,431.98,12.0,1,12.0
+Yogurt,Flavoured Yoghurt 80gm,2023,9,Sep,3,0,0,0,1,0,207.0,2573.95,12.5,6,12.43
+Yogurt,Flavoured Yoghurt 80gm,2023,9,Sep,3,1,0,0,1,0,148.0,1781.97,12.05,4,12.04
+Yogurt,Flavoured Yoghurt 80gm,2023,10,Oct,4,0,0,0,0,0,252.0,4535.9,18.0,8,18.0
+Yogurt,Flavoured Yoghurt 80gm,2023,11,Nov,4,0,0,0,0,1,216.0,3887.92,18.0,10,18.0
+Yogurt,Flavoured Yoghurt 80gm,2023,12,Dec,4,0,0,0,0,1,144.0,2591.95,18.0,5,18.0
+Yogurt,Flavoured Yoghurt 80gm,2023,12,Dec,4,1,0,0,0,1,18.0,323.99,18.0,1,18.0
+Yogurt,Flavoured Yoghurt 80gm,2024,1,Jan,1,0,0,0,0,1,54.0,971.97,18.0,3,18.0
+Yogurt,Flavoured Yoghurt 80gm,2024,1,Jan,1,1,0,0,0,1,36.0,647.98,18.0,2,18.0
+Yogurt,Flavoured Yoghurt 80gm,2024,2,Feb,1,0,0,0,0,0,198.0,3563.92,18.0,8,18.0
+Yogurt,Flavoured Yoghurt 80gm,2024,3,Mar,1,0,1,0,0,0,248.0,4463.92,18.0,8,18.0
+Yogurt,Flavoured Yoghurt 80gm,2024,3,Mar,1,1,1,0,0,0,135.0,2430.01,18.0,2,18.0
+Yogurt,Flavoured Yoghurt 80gm,2024,4,Apr,2,0,1,1,0,0,72.0,1295.96,18.0,4,18.0
+Yogurt,Flavoured Yoghurt 80gm,2024,4,Apr,2,1,1,1,0,0,90.0,1619.97,18.0,4,18.0
+Yogurt,Flavoured Yoghurt 80gm,2024,5,May,2,0,1,1,0,0,198.0,3563.92,18.0,11,18.0
+Yogurt,Flavoured Yoghurt 80gm,2024,6,Jun,2,0,0,1,1,0,234.0,4211.98,18.0,8,18.0
+Yogurt,Flavoured Yoghurt 80gm,2024,7,Jul,3,0,0,0,1,0,234.0,4221.65,18.03,9,18.04
+Yogurt,Flavoured Yoghurt 80gm,2024,8,Aug,3,0,0,0,1,0,126.0,2277.68,18.09,6,18.08
+Yogurt,Flavoured Yoghurt 80gm,2024,8,Aug,3,1,0,0,1,0,72.0,1295.99,18.0,2,18.0
+Yogurt,Flavoured Yoghurt 80gm,2024,9,Sep,3,0,0,0,1,0,144.0,2611.42,18.14,6,18.13
+Yogurt,Flavoured Yoghurt 80gm,2024,9,Sep,3,1,0,0,1,0,18.0,323.99,18.0,1,18.0
+Yogurt,Flavoured Yoghurt 80gm,2024,10,Oct,4,0,0,0,0,0,234.0,4221.61,18.02,9,18.04
+Yogurt,Flavoured Yoghurt 80gm,2024,11,Nov,4,0,0,0,0,1,235.0,4249.38,18.07,8,18.08
+Yogurt,Flavoured Yoghurt 80gm,2024,12,Dec,4,0,0,0,0,1,144.0,2601.66,18.05,5,18.07
+Yogurt,Flavoured Yoghurt 80gm,2024,12,Dec,4,1,0,0,0,1,169.0,3050.58,18.02,4,18.05
+Yogurt,Flavoured Yoghurt 80gm,2025,1,Jan,1,0,0,0,0,1,309.0,5571.58,18.02,12,18.03
+Yogurt,Flavoured Yoghurt 80gm,2025,1,Jan,1,1,0,0,0,1,27.0,486.0,18.0,2,18.0
+Yogurt,Flavoured Yoghurt 80gm,2025,2,Feb,1,0,0,0,0,0,718.0,12970.35,18.16,11,18.06
+Yogurt,Flavoured Yoghurt 80gm,2025,3,Mar,1,0,1,0,0,0,534.0,9675.57,18.11,13,18.12
+Yogurt,Flavoured Yoghurt 80gm,2025,4,Apr,2,0,1,1,0,0,198.0,3563.91,18.0,6,18.0
+Yogurt,Flavoured Yoghurt 80gm,2025,4,Apr,2,1,1,1,0,0,216.0,3897.67,18.04,6,18.04
+Yogurt,Flavoured Yoghurt 80gm,2025,5,May,2,0,1,1,0,0,411.0,7427.01,18.07,13,18.07
+Yogurt,Flavoured Yoghurt 80gm,2025,6,Jun,2,0,0,1,1,0,288.0,5247.59,18.28,11,18.22
+Yogurt,Flavoured Yoghurt 80gm,2025,7,Jul,3,0,0,0,1,0,297.0,5375.09,18.12,11,18.1
+Yogurt,Flavoured Yoghurt 80gm,2025,8,Aug,3,0,0,0,1,0,324.0,5851.35,18.05,9,18.06
+Yogurt,Flavoured Yoghurt 80gm,2025,8,Aug,3,1,0,0,1,0,108.0,1953.71,18.09,2,18.09
+Yogurt,Flavoured Yoghurt 80gm,2025,9,Sep,3,0,0,0,1,0,270.0,4869.64,18.05,7,18.04
+Yogurt,Flavoured Yoghurt 80gm,2025,9,Sep,3,1,0,0,1,0,72.0,1295.96,18.0,2,18.0
+Yogurt,Flavoured Yoghurt 80gm,2025,10,Oct,4,0,0,0,0,0,554.0,9971.79,18.0,15,18.0
+Yogurt,Flavoured Yoghurt 80gm,2025,11,Nov,4,0,0,0,0,1,630.0,11349.49,18.04,14,18.02
+Yogurt,Flavoured Yoghurt 80gm,2025,12,Dec,4,0,0,0,0,1,612.0,11045.04,18.04,10,18.05
+Yogurt,Flavoured Yoghurt 80gm,2025,12,Dec,4,1,0,0,0,1,198.0,3583.39,18.07,3,18.1
+Yogurt,Greek Yoghurt 100g,2023,5,May,2,0,1,1,0,0,471.0,11768.03,25.0,7,24.99
+Yogurt,Greek Yoghurt 100g,2023,6,Jun,2,0,0,1,1,0,306.0,7620.04,24.88,8,24.9
+Yogurt,Greek Yoghurt 100g,2023,9,Sep,3,0,0,0,1,0,51.0,1295.0,31.08,2,25.39
+Yogurt,Greek Yoghurt 100g - Trcmpu,2025,2,Feb,1,0,0,0,0,0,478.0,11802.99,24.7,5,24.69
+Yogurt,Greek Yoghurt 100g - Trcmpu,2025,3,Mar,1,1,1,0,0,0,2.0,74.0,37.0,1,37.0
+Yogurt,Sugar Free Yoghurt 100g - Mango,2023,11,Nov,4,0,0,0,0,1,210.0,5361.33,25.38,6,25.53
+Yogurt,Sugar Free Yoghurt 100g - Mango,2023,12,Dec,4,0,0,0,0,1,52.0,1294.99,24.86,3,24.9
+Yogurt,Sugar Free Yoghurt 100g - Mango,2023,12,Dec,4,1,0,0,0,1,72.0,1775.99,24.67,2,24.67
+Yogurt,Sugar Free Yoghurt 100g - Mango,2024,1,Jan,1,0,0,0,0,1,10.0,259.01,25.9,1,25.9
+Yogurt,Sugar Free Yoghurt 100g - Mango,2024,2,Feb,1,0,0,0,0,0,1.0,37.0,37.0,1,37.0
+Yogurt,Sugar Free Yoghurt 100g - Mango,2024,3,Mar,1,0,1,0,0,0,65.0,1628.02,25.03,3,25.05
+Yogurt,Sugar Free Yoghurt 100g - Mango,2024,3,Mar,1,1,1,0,0,0,7.0,185.01,26.43,1,26.43
+Yogurt,Sugar Free Yoghurt 100g - Mango,2024,10,Oct,4,0,0,0,0,0,43.0,1073.01,25.11,4,24.95
+Yogurt,Sugar Free Yoghurt 100g - Mango,2024,11,Nov,4,0,0,0,0,1,27.0,666.0,24.67,3,24.67
+Yogurt,Sugar Free Yoghurt 100g - Mango,2024,12,Dec,4,0,0,0,0,1,48.0,1184.0,24.67,5,24.67
+Yogurt,Sugar Free Yoghurt 100g - Mango,2024,12,Dec,4,1,0,0,0,1,39.0,986.01,25.34,3,25.28
+Yogurt,Sugar Free Yoghurt 100g - Mango,2025,1,Jan,1,0,0,0,0,1,25.0,628.99,25.7,3,25.16
+Yogurt,Sugar Free Yoghurt 100g - Mango,2025,1,Jan,1,1,0,0,0,1,34.0,851.0,25.03,1,25.03
+Yogurt,Sugar Free Yoghurt 100g - Pineapple,2023,11,Nov,4,0,0,0,0,1,216.0,5497.33,25.42,9,25.45
+Yogurt,Sugar Free Yoghurt 100g - Pineapple,2023,12,Dec,4,0,0,0,0,1,34.0,850.99,25.7,3,25.03
+Yogurt,Sugar Free Yoghurt 100g - Pineapple,2023,12,Dec,4,1,0,0,0,1,9.0,221.99,24.67,2,24.67
+Yogurt,Sugar Free Yoghurt 100g - Pineapple,2024,1,Jan,1,0,0,0,0,1,13.0,333.0,26.21,2,25.62
+Yogurt,Sugar Free Yoghurt 100g - Pineapple,2024,1,Jan,1,1,0,0,0,1,36.0,887.99,24.67,1,24.67
+Yogurt,Sugar Free Yoghurt 100g - Pineapple,2024,3,Mar,1,0,1,0,0,0,15.0,370.0,24.67,2,24.67
+Yogurt,Sugar Free Yoghurt 100g - Pineapple,2024,3,Mar,1,1,1,0,0,0,103.0,2553.01,24.79,1,24.79
+Yogurt,Sugar Free Yoghurt 100g - Pineapple,2024,10,Oct,4,0,0,0,0,0,36.0,888.0,24.67,3,24.67
