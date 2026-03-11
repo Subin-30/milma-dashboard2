@@ -1,0 +1,31 @@
+Product,Category,Order,Seasonal,MAE,RMSE,AIC
+Butter Milk 175 Ml - Sambharam,Sambaram,"(2, 0, 1)","(0, 0, 1, 12)",0.0,0.0,968.52
+Butter Milk 180ml - Sambaram,Sambaram,"(2, 0, 1)","(0, 0, 1, 12)",0.03,0.05,1009.0
+Butter Milk 200 Ml,Sambaram,"(2, 0, 1)","(0, 0, 1, 12)",94211.7,130235.06,1153.88
+Butter Milk 200 Ml - Nellikka,Sambaram,"(2, 0, 1)","(0, 0, 1, 12)",4.11,7.12,786.53
+Butter Milk 250ml-Nellikka,Sambaram,"(2, 0, 1)","(0, 0, 1, 12)",0.21,0.39,1004.1
+Cheese Slice 100gm,Cheese,"(0, 1, 1)","(1, 0, 0, 12)",31705.18,35574.98,921.95
+Cheese Spread Chilly Garlic 200gm,Cheese,"(0, 1, 1)","(1, 0, 0, 12)",24.04,24.04,586.86
+Cheese Spread Pepper 200gm,Cheese,"(0, 1, 1)","(1, 0, 0, 12)",0.0,0.0,603.6
+Cheese Spread Plain 200gm,Cheese,"(0, 1, 1)","(1, 0, 0, 12)",1478.64,1993.57,711.86
+Dtm Curd 500g,Curd,"(0, 1, 0)","(1, 0, 0, 12)",150.26,159.23,1083.8
+Flavoured Yoghurt 80gm,Yogurt,"(0, 1, 0)","(0, 0, 0, 12)",3859.16,4966.08,920.74
+Greek Yoghurt 100g,Yogurt,"(0, 1, 0)","(0, 0, 0, 12)",0.0,0.0,-1091.77
+Greek Yoghurt 100g - Trcmpu,Yogurt,"(0, 1, 0)","(0, 0, 0, 12)",0.0,0.0,948.3
+Kantharimoru 700 Ml Pet,Curd,"(0, 1, 0)","(1, 0, 0, 12)",134051.52,254590.66,-856.71
+Katta Thairu 400g,Curd,"(0, 1, 0)","(1, 0, 0, 12)",0.0,0.0,580.9
+Kattimoru 250 Ml Sachet,Curd,"(0, 1, 0)","(1, 0, 0, 12)",0.0,0.0,884.64
+Kattimoru 450 Ml Pet,Curd,"(0, 1, 0)","(1, 0, 0, 12)",272419.25,308724.43,1067.27
+Milma Katti Moru 1 Ltr,Curd,"(0, 1, 0)","(1, 0, 0, 12)",0.0,0.0,782.07
+Milma Katti Moru 500ml,Curd,"(0, 1, 0)","(1, 0, 0, 12)",4184.28,4845.51,1127.79
+Paneer 1kg,Paneer,"(1, 1, 1)","(1, 0, 0, 12)",24878.36,29609.63,901.9
+Paneer 200gm - Sliced,Paneer,"(1, 1, 1)","(1, 0, 0, 12)",82731.95,95911.21,955.59
+Probiotic Set Curd 1000 G,Curd,"(0, 1, 0)","(1, 0, 0, 12)",73222.64,89705.58,800.19
+Probiotic Set Curd 400 G,Curd,"(0, 1, 0)","(1, 0, 0, 12)",701.01,1251.56,-856.71
+Set Curd 1 Kg - Toned Milk,Curd,"(0, 1, 0)","(1, 0, 0, 12)",35406.4,42015.77,950.9
+Skimmed Milk Curd 500gm,Curd,"(0, 1, 0)","(1, 0, 0, 12)",0.0,0.0,1328.48
+Skimmed Milk Curd 525g,Curd,"(0, 1, 0)","(1, 0, 0, 12)",2250255.35,2632889.44,1364.37
+Skimmed Milk Curd 5kg,Curd,"(0, 1, 0)","(1, 0, 0, 12)",87890.45,96725.03,1033.99
+Special Curd 500gm- Tonned Milk,Curd,"(0, 1, 0)","(1, 0, 0, 12)",595719.47,680285.81,1144.21
+Sugar Free Yoghurt 100g - Mango,Yogurt,"(0, 1, 0)","(0, 0, 0, 12)",0.0,0.0,868.6
+Sugar Free Yoghurt 100g - Pineapple,Yogurt,"(0, 1, 0)","(0, 0, 0, 12)",0.0,0.0,871.55
